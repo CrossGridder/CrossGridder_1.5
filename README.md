@@ -1,10 +1,28 @@
 # CrossGridder_1.2
 AudioGridderServer.exe wrapped in a CrossOver 21 Bottle. Goodbye virtual machine, Hello CrossGridder!
 
+.. MOJAVE ..
 Download CG_1.2_Legacy: https://workupload.com/file/7ERBndjmRrY
-Download CrossGridder_1.2: https://workupload.com/file/CFDqnQ6WqwH
-Download the PDF GUIDE from this repository
 
+.. CATALINA > MONTEREY / LINUX ..
+Download CrossGridder_1.2: https://workupload.com/file/CFDqnQ6WqwH
+
+.. CHROME OS ..
+Not Tested Yet.
+
+.. Download the PDF GUIDE from this repository .. AND READ IT ALL!!!
+
+If one of the files doesn't work on your system try the other. The legacy one is a fix 
+to what I think is a gzip issues when decompressing due to the different versions. 
+CrossGridder_1.2 was created on Monterey 12.0.1, which is shipped with a higher version.
+
+Please report if you have any issues importing these bottles into CrossOver 21, including your system configuration
+
+Also, please consider donations via Paypal to help me keep this project alive and provide you with new guides, solutions, bottles for specific 
+https://www.paypal.com/donate/?hosted_button_id=54VD7JACZSLF2
+
+
+BELOW IS A PREVIEW OF THE PDF CONTENT
 *********************
 WHAT IS CROSSGRIDDER
 *********************
