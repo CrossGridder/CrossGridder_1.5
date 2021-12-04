@@ -1,6 +1,10 @@
 # CrossGridder_1.2
 AudioGridderServer.exe wrapped in a CrossOver 21 Bottle. Goodbye virtual machine, Hello CrossGridder!
 
+Download CG_1.2_Legacy: https://workupload.com/file/7ERBndjmRrY
+Download CrossGridder_1.2: https://workupload.com/file/CFDqnQ6WqwH
+Download the PDF GUIDE from this repository
+
 *********************
 WHAT IS CROSSGRIDDER
 *********************
