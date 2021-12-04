@@ -1,6 +1,12 @@
 # CrossGridder_1.2
 AudioGridderServer.exe wrapped in a CrossOver 21 Bottle. Goodbye virtual machine, Hello CrossGridder!
 
+BEWARE. If you have messed a lot with WineHQ, WineBottler and the likes in the past, probably Crossover 
+would not work at all because of conflicts in folders and wine prefixes. I also had this problem 
+on one of my many setups. It's not even the OS, because I have two machines with the same and on one that
+was not heavily tampered with Wine stuff it works, on the other doesnt.
+So, I am searching the fix for you and for me. Contact me at crossgridder@gmail.com if you know the solution
+
 .. MOJAVE ..
 Download CG_1.2_Legacy: https://workupload.com/file/7ERBndjmRrY
 
