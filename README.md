@@ -8,10 +8,10 @@ was not heavily tampered with Wine stuff it works, on the other doesnt.
 So, I am searching the fix for you and for me. Contact me at crossgridder@gmail.com if you know the solution
 
 .. MOJAVE ..
-Download CG_1.2_Legacy: https://workupload.com/file/rALWX2JVczh
+Download CG_1.2_Legacy: https://workupload.com/file/vmrTh8ttVFz
 
 .. CATALINA > MONTEREY / LINUX ..
-Download CrossGridder_1.2: https://workupload.com/file/HW95e3rymLr
+Download CrossGridder_1.2: https://workupload.com/file/nFCFh23JMU9
 
 .. CHROME OS ..
 Not Tested Yet.
@@ -30,6 +30,7 @@ https://www.paypal.com/donate/?hosted_button_id=54VD7JACZSLF2
 
 
 BELOW IS A PREVIEW OF THE PDF CONTENT
+
 *********************
 WHAT IS CROSSGRIDDER
 *********************
