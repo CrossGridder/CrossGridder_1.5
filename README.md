@@ -5,7 +5,6 @@ BEWARE. If you have messed a lot with WineHQ, WineBottler and the likes in the p
 would not work at all because of conflicts in folders and wine prefixes. I also had this problem 
 on one of my many setups. It's not even the OS, because I have two machines with the same and on one that
 was not heavily tampered with Wine stuff it works, on the other doesnt.
-So, I am searching the fix for you and for me. Contact me at crossgridder@gmail.com if you know the solution
 
 .. MOJAVE ..
 Download CG_1.2_Legacy: https://workupload.com/file/vmrTh8ttVFz
@@ -62,7 +61,7 @@ WHAT IS CROSSGRIDDER
 	donation to help me keep this project going on and 	
 	be able to technically assist you. 	
 
-	. If none can be imported in your system, please send an email to CrossGridder@gmail.com
+	. If none can be imported in your system, please start a discussion
 	with your system's details and a brief description of the problem.
   
  ********************************* 
