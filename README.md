@@ -14,11 +14,12 @@ I was writing the guide while not confident yet with Linux. I use macOS, but at 
 So, if you read this, consider Chapter 6 of the guide obsolete.
 *************************************************************************************************
 
-
 BEWARE. If you have messed a lot with WineHQ, WineBottler and the likes in the past, probably Crossover 
 would not work at all because of conflicts in folders and wine prefixes. I also had this problem 
 on one of my many setups. It's not even the OS, because I have two machines with the same and on one that
 was not heavily tampered with Wine stuff it works, on the other doesnt.
+
+*************************************************************************************************
 
 .. MOJAVE ..
 Download CG_1.2_Legacy: https://workupload.com/file/vmrTh8ttVFz
@@ -32,7 +33,7 @@ Not Tested Yet.
 .. Download the PDF GUIDE from this repository .. AND READ IT ALL!!!
 
 If one of the files doesn't work on your system try the other. The legacy one is a fix 
-to what I think is a gzip issues when decompressing due to the different versions. 
+to what I think is a gzip issue when decompressing due to the different gzip builds. 
 CrossGridder_1.2 was created on Monterey 12.0.1, which is shipped with a higher version.
 
 Please report if you have any issues importing these bottles into CrossOver 21, including your system configuration
@@ -65,7 +66,7 @@ WHAT IS CROSSGRIDDER
 	importing issues, however, if you have problems importing one, 	
 	try the other:
 
-		. CG_1.2_Legacy (Mojave>Catalina/Linux)
+		. CG_1.2_Legacy (Mojave)
 		. CrossGridder_1.2 (Catalina > Monterey/Linux)
 
 	. By default It contains freeware softwares. It is up to you to 	
