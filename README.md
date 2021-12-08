@@ -1,5 +1,19 @@
 # CrossGridder_1.2
 AudioGridderServer.exe wrapped in a CrossOver 21 Bottle. Goodbye virtual machine, Hello CrossGridder!
+**************************************************************************************************
+IMPORTANT FOR LINUX USERS: 
+
+There are already a few things that I will be adding to the next PDF guide, especially for Linux. 
+Wine configuration "emulate a virtual desktop" must be turned off 
+and then open system monitor/processes (I did that on ubuntu studio).
+
+Check that after you launch audiogridder from inside the bottle, 2 audiogridderserver.exe processes are found.
+Kill the one with less ram in use, the one with more must be kept running.
+I was writing the guide while not confident yet with Linux. I use macOS, but at the end the logic is the same. 
+
+So, if you read this, consider Chapter 6 of the guide obsolete.
+*************************************************************************************************
+
 
 BEWARE. If you have messed a lot with WineHQ, WineBottler and the likes in the past, probably Crossover 
 would not work at all because of conflicts in folders and wine prefixes. I also had this problem 
