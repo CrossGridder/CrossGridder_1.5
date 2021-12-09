@@ -24,6 +24,7 @@ was not heavily tampered with Wine stuff it works, on the other doesnt.
 .. MOJAVE ..
 Download CG_1.2_Legacy: https://workupload.com/file/vmrTh8ttVFz
 https://www.mediafire.com/file/udz05qu5koesqlr/CG_1.2_Legacy.cxarchive.zip/file
+
 .. CATALINA > MONTEREY / LINUX ..
 Download CrossGridder_1.2: https://workupload.com/file/nFCFh23JMU9
 https://www.mediafire.com/file/oms8s6w0smhp0nu/CrossGridder_1.2.cxarchive.zip/file
