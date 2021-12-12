@@ -41,10 +41,13 @@ CrossGridder_1.2 was created on Monterey 12.0.1, which is shipped with a higher 
 
 Please report if you have any issues importing these bottles into CrossOver 21, including your system configuration
 
-Also, please consider donations via Paypal or Brave browser tips when visiting my Github page,
+
+**********************************************************************
+I kindly ask you to consider 
+DONATIONS VIA BRAVE BROWSER TIPS WHEN VISITING CROSSGRIDDER ON GITHUB
 to help me keep this project alive and provide you with new guides,
 solutions and bottles for specific configurations
-https://www.paypal.com/donate/?hosted_button_id=54VD7JACZSLF2
+**********************************************************************
 
 
 BELOW IS A PREVIEW OF THE PDF CONTENT
