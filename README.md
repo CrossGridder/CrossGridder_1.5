@@ -34,6 +34,7 @@ https://www.mediafire.com/file/oms8s6w0smhp0nu/CrossGridder_1.2.cxarchive.zip/fi
 Not Tested Yet (but why it shouldn't work?)
 
 .. Download the PDF GUIDE from this repository .. AND READ IT ALL!!!
+Or here https://workupload.com/file/bC9RP2XphkC
 
 If one of the files doesn't work on your system try the other. The legacy one is a fix 
 to what I think is a gzip issue when decompressing due to the different gzip builds. 
