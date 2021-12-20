@@ -46,7 +46,7 @@ CrossGridder_1.2 was created on Monterey 12.0.1, which is shipped with a higher 
 
 Please report if you have any issues importing these bottles into CrossOver 21, including your system configuration
 
-
+<a href="https://ibb.co/GcgFL44"><img src="https://i.ibb.co/XSmVgrr/Multi-Server-Setup-end.png" alt="Multi-Server-Setup-end" border="0" /></a>
 **********************************************************************
 I kindly ask you to consider 
 DONATIONS VIA BRAVE BROWSER TIPS WHEN VISITING CROSSGRIDDER ON GITHUB
