@@ -1,6 +1,7 @@
 # CrossGridder_1.2
 
 <a href="https://ibb.co/jfkHbR1"><img src="https://i.ibb.co/tKp3QXW/Cross-Gridder-Local-Setup-Scheme.png" alt="Cross-Gridder-Local-Setup-Scheme" border="0" /></a>
+
 AudioGridderServer.exe wrapped in a CrossOver 21 Bottle. Goodbye virtual machine, Hello CrossGridder!
 **************************************************************************************************
 IMPORTANT FOR LINUX USERS: 
