@@ -33,6 +33,12 @@ Download CrossGridder_1.2: https://workupload.com/file/nFCFh23JMU9
 https://www.mediafire.com/file/oms8s6w0smhp0nu/CrossGridder_1.2.cxarchive.zip/file
 
 
+MOJAVE USERS... IF YOU PLAN TO USE iLok Lincense Manager, Use CrossOver 20. 
+ALL Users, if you use an app like Little Snitch, be sure that the Wine64-preloader for iLok is tracked by little snitch and you allows it.
+If you still can't use iLok through CrossGridder, open a discussion and I will try to help you. Don't open an issue because I have tested it on Monterey, Mojave and Ubuntu and if you follow the advices, iLok is going to work like it was a native app. 
+
+<a href="https://ibb.co/RpKDdhk"><img src="https://i.ibb.co/qM8rV03/i-Lock-CO20-Mojave.png" alt="i-Lock-CO20-Mojave" border="0"></a>
+
 .. CHROME OS ..
 Not Tested Yet (but why it shouldn't work?)
 
