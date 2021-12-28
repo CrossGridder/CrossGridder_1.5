@@ -1,5 +1,9 @@
 # CrossGridder_1.3
 
+*******************************************************************************************
+IMPORTANT FOR LINUX USER. CROSSGRIDDER 1.3 DOWNLOAD IS MANDATORY TO HAVE ALSA DRIVERS WORK
+*******************************************************************************************
+
 CROSSGRIDDER is a bottle for CrossOver 20 and 21. 
 
 CROSSGRIDDER lets you use Windows only VSTs on macOS or Linux much like they were natives plugins. 
