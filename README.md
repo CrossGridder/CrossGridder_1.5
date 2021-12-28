@@ -1,6 +1,8 @@
 # CrossGridder_1.3
 
-CROSSGRIDDER let's you use Windows only VSTs on macOS or Linux much like they were natives plugins. 
+CROSSGRIDDER is a bottle for CrossOver 20 and 21. 
+
+CROSSGRIDDER lets you use Windows only VSTs on macOS or Linux much like they were natives plugins. 
 
 Click on the image below to watch on YouTube how to setup 
 the first server and create multiple servers 
