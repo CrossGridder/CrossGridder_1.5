@@ -1,7 +1,7 @@
 # CrossGridder_1.3
 
 *******************************************************************************************
-IMPORTANT FOR LINUX USER. CROSSGRIDDER 1.3 DOWNLOAD IS MANDATORY TO HAVE ALSA DRIVERS WORK
+IMPORTANT FOR LINUX USERS. CROSSGRIDDER 1.3 DOWNLOAD IS MANDATORY TO HAVE ALSA DRIVERS WORK
 *******************************************************************************************
 
 *******************************************************************************************
