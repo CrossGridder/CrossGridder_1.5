@@ -27,8 +27,8 @@ alt="CrossGridder First Run and Multiple Server Setup" width="300" height="240" 
 
 ************************************************************************************************
 
-Below image shows a diagram of what CrossGridder does better, 
-be a local server on the same device as the AudioGridder plugin by Andreas Pohl.
+Below image shows a diagram of what CrossGridder does better: 
+work as a local server on the same device as the AudioGridder plugin by Andreas Pohl.
 
 <a href="https://ibb.co/jfkHbR1"><img src="https://i.ibb.co/tKp3QXW/Cross-Gridder-Local-Setup-Scheme.png" alt="Cross-Gridder-Local-Setup-Scheme" border="0" /></a>
 
