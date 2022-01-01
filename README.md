@@ -11,7 +11,7 @@ IT IS SOMETHING I CAN'T DO ON MY SIDE, CERTAIN INSTALLERS WILL FAIL IF YOU DON'T
 https://github.com/CrossGridder/CrossGridder_1.3/discussions/9
 *******************************************************************************************
 
-CROSSGRIDDER is a bottle for CrossOver 20 and 21. 
+CROSSGRIDDER is a bottle for CrossOver 20 and 21 containing AudioGridderServer.exe. 
 
 CROSSGRIDDER lets you use Windows only VSTs on macOS or Linux much like they were natives plugins. 
 
