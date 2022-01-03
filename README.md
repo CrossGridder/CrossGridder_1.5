@@ -1,15 +1,15 @@
 # CrossGridder_1.3
 
-*******************************************************************************************
-IMPORTANT FOR LINUX USERS. CROSSGRIDDER 1.3 DOWNLOAD IS MANDATORY TO HAVE ALSA DRIVERS WORK
-*******************************************************************************************
+***********************************************************************************************
+IMPORTANT FOR LINUX USERS. CROSSGRIDDER 1.3 DOWNLOAD IS MANDATORY TO HAVE WORKING ALSA DRIVERS
+***********************************************************************************************
 
-*******************************************************************************************
+***********************************************************************************************
 ALL USERS, DO WHAT DESCRIBED IN THE LINK BELOW AS SOON AS CROSSGRIDDER IS IMPORTED
 
 IT IS SOMETHING I CAN'T DO ON MY SIDE, CERTAIN INSTALLERS WILL FAIL IF YOU DON'T DO IT:
 https://github.com/CrossGridder/CrossGridder_1.3/discussions/9
-*******************************************************************************************
+***********************************************************************************************
 
 CROSSGRIDDER is a bottle for CrossOver 20 and 21 containing AudioGridderServer.exe. 
 
