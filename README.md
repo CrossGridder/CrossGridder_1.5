@@ -36,9 +36,9 @@ work as a local server on the same device as the AudioGridder plugin by Andreas 
 
 DOWNLOAD CROSSGRIDDER 1.3 : 
 
-https://workupload.com/file/f2hP5JHey2V
+Mirror 1: https://workupload.com/file/f2hP5JHey2V
 
-https://www.mediafire.com/file/vyhabg83t348gdv/CrossGridder_1.3.cxarchive/file
+Mirror 2: https://www.mediafire.com/file/vyhabg83t348gdv/CrossGridder_1.3.cxarchive/file
                             
 (Universal bottle, tested from Mojave to Monterey and Ubuntu Studio 21)
 
@@ -48,22 +48,22 @@ https://www.mediafire.com/file/vyhabg83t348gdv/CrossGridder_1.3.cxarchive/file
 
 GUIDES
 
-ENGLISH: https://workupload.com/file/yL2UjBEkyNN
-         https://www.mediafire.com/file/11r5a6z9kucq8l9/EN_Guide_CrossGridder_1.3.pdf/file
+ENGLISH:  Mirror 1: https://workupload.com/file/yL2UjBEkyNN
+          Mirror 2: https://www.mediafire.com/file/11r5a6z9kucq8l9/EN_Guide_CrossGridder_1.3.pdf/file
 
-ESPAÑOL: https://workupload.com/file/MRZGJAkZvss
-         https://www.mediafire.com/file/5e1urcdxyadstdp/ES_Guia_CrossGridder_1.3.pdf/file
+ESPAÑOL:  Mirror 1: https://workupload.com/file/MRZGJAkZvss
+          Mirror 2: https://www.mediafire.com/file/5e1urcdxyadstdp/ES_Guia_CrossGridder_1.3.pdf/file
 
-ITALIANO: https://workupload.com/file/pkyuxZH9F3q
-          https://www.mediafire.com/file/m4wnbettbwk610t/IT_Guida_CrossGridder_1.3.pdf/file
+ITALIANO: Mirror 1: https://workupload.com/file/pkyuxZH9F3q
+          Mirror 2: https://www.mediafire.com/file/m4wnbettbwk610t/IT_Guida_CrossGridder_1.3.pdf/file
 
 ************************************************************************************************
 
 DONATIONS:
 
 . BRAVE BROWSER TIPS WHEN VISITING CROSSGRIDDER ON GITHUB or YOUTUBE
-to help me keep this project alive and provide you with new guides,
-solutions and bottles for specific configurations
+are welcome. They will help me keep this project alive and provide you with new bottles,
+guides and solutions.
 
 PAYPAL:
 https://www.paypal.com/donate/?hosted_button_id=WY748BJGBV5R8
