@@ -22,7 +22,6 @@ the first server and create multiple servers
 to overcome AudioGridderServer limit of 1 GUI x Server on the Host Side
 (see chapters 4 and 5 of the guide for more insights)
 
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4-9Rk6KpHL0
 " target="_blank"><img src="http://img.youtube.com/vi/4-9Rk6KpHL0/0.jpg" 
 alt="CrossGridder First Run and Multiple Server Setup" width="300" height="240" border="15" /></a>
@@ -58,18 +57,27 @@ ITALIANO: Mirror 1: https://workupload.com/file/pkyuxZH9F3q
           Mirror 2: https://www.mediafire.com/file/m4wnbettbwk610t/IT_Guida_CrossGridder_1.3.pdf/file
 
 ************************************************************************************************
+CROSSGRIDDER will always be free. However, I kindly ask you to subscribe to 
+my channels if you can't donate right now. 
+
+CrossGridder on YT: 
+https://www.youtube.com/channel/UCEHXt2OvlCaYvMmWd8XjWNA
+
+CrossGridder on FB:
+https://www.facebook.com/people/CrossGridder/100075794704054/
 
 DONATIONS:
-
-. BRAVE BROWSER TIPS WHEN VISITING CROSSGRIDDER ON GITHUB or YOUTUBE
-are welcome. They will help me keep this project alive and provide you with new bottles,
-guides and solutions.
+. You can send me BAT crypto currency, you can earn them by just using the BRAVE browser. 
+BRAVE will be probably the next big name between browsers in the next years. It is also packed with
+and excellent trackers and ads blocker. 
 
 PAYPAL:
 https://www.paypal.com/donate/?hosted_button_id=WY748BJGBV5R8
 
 ************************************************************************************************
+<a href="https://ibb.co/2WPKjgY"><img src="https://i.ibb.co/sbQ3FyJ/Donate1.png" alt="Donate1" border="0" /></a>
 
+<a href="https://ibb.co/TB1DX9S"><img src="https://i.ibb.co/Z6SRsqP/Donate2.png" alt="Donate2" border="0" /></a>
 
 **********************************************************************
 
