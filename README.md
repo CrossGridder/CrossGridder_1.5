@@ -2,6 +2,9 @@
 
 <a href="https://ibb.co/HHS99pd"><img src="https://i.ibb.co/ZMjbb1m/Reason-12-Monterey.png" alt="Reason-12-Monterey" border="0" /></a>
 
+<a href="https://ibb.co/2ZW6mRQ"><img src="https://i.ibb.co/phbPGN8/i-Lock-CO20-Mojave.png" alt="i-Lock-CO20-Mojave" border="0"></a>
+
+<a href="https://ibb.co/GcgFL44"><img src="https://i.ibb.co/XSmVgrr/Multi-Server-Setup-end.png" alt="Multi-Server-Setup-end" border="0" /></a>
 ***********************************************************************************************
 IMPORTANT FOR LINUX USERS. CROSSGRIDDER 1.3 DOWNLOAD IS MANDATORY TO HAVE WORKING ALSA DRIVERS
 ***********************************************************************************************
@@ -84,9 +87,7 @@ https://www.paypal.com/donate/?hosted_button_id=WY748BJGBV5R8
 
 **********************************************************************
 
-<a href="https://ibb.co/2ZW6mRQ"><img src="https://i.ibb.co/phbPGN8/i-Lock-CO20-Mojave.png" alt="i-Lock-CO20-Mojave" border="0"></a>
 
-<a href="https://ibb.co/GcgFL44"><img src="https://i.ibb.co/XSmVgrr/Multi-Server-Setup-end.png" alt="Multi-Server-Setup-end" border="0" /></a>
 
 
 
