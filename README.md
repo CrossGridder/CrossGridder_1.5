@@ -48,12 +48,15 @@ Mirror 2: https://www.mediafire.com/file/vyhabg83t348gdv/CrossGridder_1.3.cxarch
 GUIDES
 
 ENGLISH:  Mirror 1: https://workupload.com/file/yL2UjBEkyNN
+
           Mirror 2: https://www.mediafire.com/file/11r5a6z9kucq8l9/EN_Guide_CrossGridder_1.3.pdf/file
 
 ESPAÑOL:  Mirror 1: https://workupload.com/file/MRZGJAkZvss
+
           Mirror 2: https://www.mediafire.com/file/5e1urcdxyadstdp/ES_Guia_CrossGridder_1.3.pdf/file
 
 ITALIANO: Mirror 1: https://workupload.com/file/pkyuxZH9F3q
+
           Mirror 2: https://www.mediafire.com/file/m4wnbettbwk610t/IT_Guida_CrossGridder_1.3.pdf/file
 
 ************************************************************************************************
