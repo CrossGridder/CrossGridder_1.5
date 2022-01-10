@@ -72,7 +72,7 @@ https://www.facebook.com/people/CrossGridder/100075794704054/
 DONATIONS:
 . You can send me BAT crypto currency, you can earn them by just using the BRAVE browser. 
 BRAVE will be probably the next big name between browsers in the next years. It is also packed with
-and excellent trackers and ads blocker. 
+an excellent trackers and ads blocker. 
 
 PAYPAL:
 https://www.paypal.com/donate/?hosted_button_id=WY748BJGBV5R8
