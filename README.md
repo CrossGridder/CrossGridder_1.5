@@ -36,7 +36,7 @@ work as a local server on the same device as the AudioGridder plugin by Andreas 
 
 DOWNLOAD CROSSGRIDDER 1.4 : 
 
-Mirror 1: Stay tuned, links are being updated
+Mirror 1: https://www.mediafire.com/file/ascqbljcshihif1/CrossGridder_1.4.cxarchive/file
 
 Mirror 2: Stay tuned, links are being updated
                             
