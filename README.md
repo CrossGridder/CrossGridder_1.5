@@ -38,7 +38,7 @@ DOWNLOAD CROSSGRIDDER 1.4 :
 
 Mirror 1: https://www.mediafire.com/file/ascqbljcshihif1/CrossGridder_1.4.cxarchive/file
 
-Mirror 2: Stay tuned, links are being updated
+Mirror 2: https://workupload.com/file/xVS4ENRBJ43
                             
 (Universal bottle, tested from Mojave to Monterey and Ubuntu Studio 21)
 
