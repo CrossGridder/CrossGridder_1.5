@@ -9,8 +9,8 @@
 CROSSGRIDDER 1.4 adds support for Reason 12 and Reason 12 companion. Check the video below. 
 It also shows how to add fonts and recreate aliases to the user's folder from Wine Configuration
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=KXE0_Ci_mBg
-" target="_blank"><img src="http://img.youtube.com/vi/KXE0_Ci_mBg/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=keGQeQSEG2o&t
+" target="_blank"><img src="http://img.youtube.com/vi/keGQeQSEG2o&t/0.jpg" 
 alt="REASON 12 with WORKING FONTS" width="300" height="240" border="15" /></a>
 
 ***********************************************************************************************
