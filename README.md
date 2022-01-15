@@ -1,4 +1,4 @@
-# CrossGridder_1.3
+# CrossGridder_1.4
 
 <a href="https://ibb.co/HHS99pd"><img src="https://i.ibb.co/ZMjbb1m/Reason-12-Monterey.png" alt="Reason-12-Monterey" border="0" /></a>
 
@@ -6,16 +6,14 @@
 
 <a href="https://ibb.co/GcgFL44"><img src="https://i.ibb.co/XSmVgrr/Multi-Server-Setup-end.png" alt="Multi-Server-Setup-end" border="0" /></a>
 ***********************************************************************************************
-IMPORTANT FOR LINUX USERS. CROSSGRIDDER 1.3 DOWNLOAD IS MANDATORY TO HAVE WORKING ALSA DRIVERS
-***********************************************************************************************
+CROSSGRIDDER 1.4 adds support for Reason 12 and Reason 12 companion. Check the video below. 
+It also shows how to add fonts and recreate aliases to the user's folder from Wine Configuration
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KXE0_Ci_mBg
+" target="_blank"><img src="http://img.youtube.com/vi/KXE0_Ci_mBg/0.jpg" 
+alt="REASON 12 with WORKING FONTS" width="300" height="240" border="15" /></a>
 
 ***********************************************************************************************
-ALL USERS, DO WHAT DESCRIBED IN THE LINK BELOW AS SOON AS CROSSGRIDDER IS IMPORTED
-
-IT IS SOMETHING I CAN'T DO ON MY SIDE, CERTAIN INSTALLERS WILL FAIL IF YOU DON'T DO IT:
-https://github.com/CrossGridder/CrossGridder_1.3/discussions/9
-***********************************************************************************************
-
 CROSSGRIDDER is a bottle for CrossOver 20 and 21 containing AudioGridderServer.exe. 
 
 CROSSGRIDDER lets you use Windows only VSTs on macOS or Linux much like they were natives plugins. 
@@ -36,29 +34,36 @@ work as a local server on the same device as the AudioGridder plugin by Andreas 
 
 <a href="https://ibb.co/jfkHbR1"><img src="https://i.ibb.co/tKp3QXW/Cross-Gridder-Local-Setup-Scheme.png" alt="Cross-Gridder-Local-Setup-Scheme" border="0" /></a>
 
-DOWNLOAD CROSSGRIDDER 1.3 : 
+DOWNLOAD CROSSGRIDDER 1.4 : 
 
-Mirror 1: https://workupload.com/file/f2hP5JHey2V
+Mirror 1: https://workupload.com/file/ASgWZ4njvHZ
 
-Mirror 2: https://www.mediafire.com/file/vyhabg83t348gdv/CrossGridder_1.3.cxarchive/file
+Mirror 2: https://www.mediafire.com/file/nh0t9rts0f9ogy8/CrossGridder_1.4.cxarchive.zip/file
                             
 (Universal bottle, tested from Mojave to Monterey and Ubuntu Studio 21)
 
 (If your system supports CrossOver 20, you should be good to go)
 
 ************************************************************************************************
+DOWNLOAD USER'S FONTS
+
+Mirror 1: https://workupload.com/file/PsxYzPCmGVL
+
+Mirror 2: https://www.mediafire.com/file/ak5ina2p4kf9e1a/CG_User_Fonts.zip/file
+
+************************************************************************************************
 
 GUIDES
 
-ENGLISH:  Mirror 1: https://workupload.com/file/yL2UjBEkyNN
-          Mirror 2: https://www.mediafire.com/file/11r5a6z9kucq8l9/EN_Guide_CrossGridder_1.3.pdf/file
+ENGLISH:  Mirror 1: https://workupload.com/file/rGDypGL6nsp
+          Mirror 2: https://www.mediafire.com/file/sfwoz3jffos8a6e/EN_Guide_CrossGridder_1.4.pdf/file
+          
+ESPAÑOL:  Mirror 1: https://workupload.com/file/bT6fGkTBMcT
+          Mirror 2: https://www.mediafire.com/file/19difdjtauklg5y/ES_Guia_CrossGridder_1.4.pdf/file
 
-ESPAÑOL:  Mirror 1: https://workupload.com/file/MRZGJAkZvss
-          Mirror 2: https://www.mediafire.com/file/5e1urcdxyadstdp/ES_Guia_CrossGridder_1.3.pdf/file
-
-ITALIANO: Mirror 1: https://workupload.com/file/pkyuxZH9F3q
-          Mirror 2: https://www.mediafire.com/file/m4wnbettbwk610t/IT_Guida_CrossGridder_1.3.pdf/file
-
+ITALIANO: Mirror 1: https://workupload.com/file/uBdrPqvNCh3
+          Mirror 2: https://www.mediafire.com/file/wor62utsro3nelg/IT_Guida_CrossGridder_1.4.pdf/file
+          
 ************************************************************************************************
 CROSSGRIDDER will always be free. However, I kindly ask you to subscribe to 
 my channels if you can't donate right now. 
@@ -70,7 +75,7 @@ CrossGridder on FB:
 https://www.facebook.com/people/CrossGridder/100075794704054/
 
 DONATIONS:
-. You can send me BAT crypto currency, you can earn them by just using the BRAVE browser. 
+. I accept BAT crypto currency, you can earn them by just using the BRAVE browser. 
 BRAVE will be probably the next big name between browsers in the next years. It is also packed with
 an excellent trackers and ads blocker. 
 
