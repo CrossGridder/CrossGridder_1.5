@@ -6,7 +6,7 @@
 
 <a href="https://ibb.co/GcgFL44"><img src="https://i.ibb.co/XSmVgrr/Multi-Server-Setup-end.png" alt="Multi-Server-Setup-end" border="0" /></a>
 ***********************************************************************************************
-CROSSGRIDDER 1.4 adds support for Reason 12 and Reason 12 companion. Check the video below. 
+CROSSGRIDDER 1.4 adds support for Reason 12 and Reason+ Companion. Check the video below. 
 It also shows how to add fonts and recreate aliases to the user's folder from Wine Configuration
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=keGQeQSEG2o
