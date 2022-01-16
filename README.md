@@ -16,7 +16,7 @@ alt="REASON 12 with WORKING FONTS" width="300" height="240" border="15" /></a>
 ***********************************************************************************************
 CROSSGRIDDER is a bottle for CrossOver 20 and 21 containing AudioGridderServer.exe. 
 
-CROSSGRIDDER lets you use Windows only VSTs on macOS or Linux much like they were natives plugins. 
+CROSSGRIDDER lets you use Windows-only VSTs on macOS or Linux much like they were natives plugins. 
 
 Click on the image below to watch on YouTube how to setup 
 the first server and create multiple servers 
