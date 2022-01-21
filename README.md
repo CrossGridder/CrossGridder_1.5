@@ -10,6 +10,8 @@
 CROSSGRIDDER 1.4 adds support for Reason 12 and Reason+ Companion. Check the video below. 
 It also shows how to add fonts and recreate aliases to the user's folder from Wine Configuration
 
+Click image to open YT video
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=keGQeQSEG2o
 " target="_blank"><img src="http://img.youtube.com/vi/keGQeQSEG2o/0.jpg" 
 alt="REASON 12 with WORKING FONTS" width="300" height="240" border="15" /></a>
@@ -82,7 +84,6 @@ an excellent trackers and ads blocker.
 
 PAYPAL:
 
-
 <a href="https://www.paypal.com/donate/?hosted_button_id=54VD7JACZSLF2" 
 target="_blank">
 <img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" alt="PayPal this" 
@@ -98,6 +99,8 @@ CrossGridder VST Installation Bash Party - Windows VSTs on MacOS and Linux SERIE
 
 Part 1
 
+Click image to open YT video
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=pP4O43gaFVM
 " target="_blank"><img src="http://img.youtube.com/vi/pP4O43gaFVM/0.jpg" 
 alt="CrossGridder VST Installation Bash Part - Windows VSTs on MacOS and Linux" width="300" height="240" border="15" /></a>
@@ -105,6 +108,8 @@ alt="CrossGridder VST Installation Bash Part - Windows VSTs on MacOS and Linux" 
 
 ************************************************************************************************
 Run 32 bit Windows VSTs on Mac and Linux - JBridge - CrossGridder 1.4 - CrossOver 21
+
+Click image to open YT video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=y90mkIw8vAQ
 " target="_blank"><img src="http://img.youtube.com/vi/y90mkIw8vAQ/0.jpg" 
