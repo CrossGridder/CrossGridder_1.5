@@ -94,7 +94,7 @@ title="PayPal – The safer, easier way to pay online!" border="0" />
 <a href="https://ibb.co/TB1DX9S"><img src="https://i.ibb.co/Z6SRsqP/Donate2.png" alt="Donate2" border="0" /></a>
 
 **********************************************************************
-"CrossGridder VST Installation Bash Part - Windows VSTs on MacOS and Linux SERIES
+CrossGridder VST Installation Bash Part - Windows VSTs on MacOS and Linux SERIES
 
 Part 1
 
