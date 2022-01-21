@@ -93,7 +93,7 @@ title="PayPal – The safer, easier way to pay online!" border="0" />
 
 <a href="https://ibb.co/TB1DX9S"><img src="https://i.ibb.co/Z6SRsqP/Donate2.png" alt="Donate2" border="0" /></a>
 
-**********************************************************************
+************************************************************************************************
 CrossGridder VST Installation Bash Party - Windows VSTs on MacOS and Linux SERIES
 
 Part 1
@@ -103,4 +103,9 @@ Part 1
 alt="CrossGridder VST Installation Bash Part - Windows VSTs on MacOS and Linux" width="300" height="240" border="15" /></a>
 
 
+************************************************************************************************
+Run 32 bit Windows VSTs on Mac and Linux - JBridge - CrossGridder 1.4 - CrossOver 21
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=y90mkIw8vAQ
+" target="_blank"><img src="http://img.youtube.com/vi/y90mkIw8vAQ/0.jpg" 
+alt="Run 32 bit Windows VSTs on Mac and Linux - JBridge - CrossGridder 1.4 - CrossOver 21" width="300" height="240" border="15" /></a>
