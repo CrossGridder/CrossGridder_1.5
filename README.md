@@ -1,5 +1,7 @@
 # CrossGridder_1.4
 
+Downloads will be available again once I get to 50 subs on Youtube. I have spent a lot of time, effort, energy and also money on this, I kindly asked to at least subscribe to my channels, which doesn't cost anything to you, but still, there are a lot of download but just a fraction of subscribers... and I can't believe they are not using it. 
+
 <a href="https://ibb.co/HHS99pd"><img src="https://i.ibb.co/ZMjbb1m/Reason-12-Monterey.png" alt="Reason-12-Monterey" border="0" /></a>
 
 <a href="https://ibb.co/2ZW6mRQ"><img src="https://i.ibb.co/phbPGN8/i-Lock-CO20-Mojave.png" alt="i-Lock-CO20-Mojave" border="0"></a>
@@ -39,9 +41,8 @@ work as a local server on the same device as the AudioGridder plugin by Andreas 
 
 DOWNLOAD CROSSGRIDDER 1.4 : 
 
-Mirror 1: https://www.mediafire.com/file/ascqbljcshihif1/CrossGridder_1.4.cxarchive/file
 
-Mirror 2: https://workupload.com/file/xVS4ENRBJ43
+
                             
 (Universal bottle, tested from Mojave to Monterey and Ubuntu Studio 21)
 
@@ -50,9 +51,7 @@ Mirror 2: https://workupload.com/file/xVS4ENRBJ43
 ************************************************************************************************
 DOWNLOAD USER'S FONTS
 
-Mirror 1: https://workupload.com/file/PsxYzPCmGVL
-
-Mirror 2: https://www.mediafire.com/file/ak5ina2p4kf9e1a/CG_User_Fonts.zip/file
+Mirror 1: snip
 
 ************************************************************************************************
 
