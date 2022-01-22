@@ -1,6 +1,6 @@
 # CrossGridder_1.4
 
-Downloads will be available again once I get to 50 subs on Youtube. I have spent a lot of time, effort, energy and also money on this, I kindly asked to at least subscribe to my channels, which doesn't cost anything to you, but still, there are a lot of download but just a fraction of subscribers... and I can't believe they are not using it. 
+Downloads will be available again once I get to 100 subs on Youtube. I have spent a lot of time, efforts, energy and also money on this research, I kindly asked to at least subscribe to my channels, which doesn't cost anything to you, but still, there are a lot of download and just a fraction of subscribers... and I can't believe you are not using CrossGridder. 
 
 <a href="https://ibb.co/HHS99pd"><img src="https://i.ibb.co/ZMjbb1m/Reason-12-Monterey.png" alt="Reason-12-Monterey" border="0" /></a>
 
