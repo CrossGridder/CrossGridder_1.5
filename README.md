@@ -116,3 +116,13 @@ Click image to open YT video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=y90mkIw8vAQ
 " target="_blank"><img src="http://img.youtube.com/vi/y90mkIw8vAQ/0.jpg" 
 alt="Run 32 bit Windows VSTs on Mac and Linux - JBridge - CrossGridder 1.4 - CrossOver 21" width="300" height="240" border="15" /></a>
+
+************************************************************************************************
+Missing AudioGridder Server Tray Icon (Solution) (macOS)
+
+Click image to open YT video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tWW7ufgHPjY
+" target="_blank"><img src="http://img.youtube.com/vi/tWW7ufgHPjY/0.jpg" 
+alt="Missing AudioGridder Server Tray Icon (Solution) (macOS)" width="300" height="240" border="15" /></a>
+
