@@ -1,7 +1,6 @@
 # CrossGridder_1.4
 
 Downloads and support will be available only to YouTube subscribers. 
-I have spent a lot of time, efforts, energy and also money on this research, I kindly asked to at least subscribe to my channels, which doesn't cost anything to you, but still, there are a lot of download and just a fraction of subscribers... 
 
 Write me an email to crossgridder@gmail.com once you are subscribed and I will provide you with a download link.
 
