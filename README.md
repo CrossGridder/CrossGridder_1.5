@@ -1,6 +1,6 @@
 # CrossGridder_1.4
 
-Downloads will be available again once I get to 100 subs on Youtube. I have spent a lot of time, efforts, energy and also money on this research, I kindly asked to at least subscribe to my channels, which doesn't cost anything to you, but still, there are a lot of download and just a fraction of subscribers... 
+Downloads and support will be available only to YouTube subscribers. I have spent a lot of time, efforts, energy and also money on this research, I kindly asked to at least subscribe to my channels, which doesn't cost anything to you, but still, there are a lot of download and just a fraction of subscribers... 
 
 <a href="https://ibb.co/HHS99pd"><img src="https://i.ibb.co/ZMjbb1m/Reason-12-Monterey.png" alt="Reason-12-Monterey" border="0" /></a>
 
@@ -40,8 +40,7 @@ work as a local server on the same device as the AudioGridder plugin by Andreas 
 <a href="https://ibb.co/jfkHbR1"><img src="https://i.ibb.co/tKp3QXW/Cross-Gridder-Local-Setup-Scheme.png" alt="Cross-Gridder-Local-Setup-Scheme" border="0" /></a>
 
 DOWNLOAD CROSSGRIDDER 1.4 : 
-
-
+snip
 
                             
 (Universal bottle, tested from Mojave to Monterey and Ubuntu Studio 21)
