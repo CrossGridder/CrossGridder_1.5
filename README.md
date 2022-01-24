@@ -1,6 +1,13 @@
 # CrossGridder_1.4
 
-Downloads and support will be available only to YouTube subscribers. 
+Downloads and support will be available only to YouTube subscribers. Don't worry, I am not going to include you in any newsletter, 
+neither I will send spam emails and I am not going to ask you any money. CrossGridder is free, as is clicking on the subscription 
+button on my YT channel. Subscriptions to other channels and donations are totally optional, thanks for your understanding and your
+interest in CrossGridder
+
+I am working on a better solution than Parallels and Windows 10 to have OpenGL fully supported on MacOS.
+It is not a matter of it is possible or not, it is just a matter of time, the time I can spend on it.
+I know, some will say it is not possible, but some also said that this was impossible, and here it is.
 
 Write me an email to crossgridder@gmail.com once you are subscribed and I will provide you with a download link.
 
