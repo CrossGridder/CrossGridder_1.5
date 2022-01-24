@@ -3,8 +3,12 @@
 Downloads and support will be available only to YouTube subscribers. Don't worry, I am not going to include you in any newsletter, 
 neither I will send spam emails and I am not going to ask you any money. CrossGridder is free, as is clicking on the subscription 
 button on my YT channel. Subscriptions to other channels and donations are totally optional, thanks for your understanding and your
-interest in CrossGridder
+interest in CrossGridder.
 
+Also, I can understand that CrossGridder, for any reason, doesn’t fit your needs and you don’t need to be subscribed to my channel.
+I just kindly ask you to provide me a brief feedback with a motivation that will help me to make it better…
+
+If you can’t run what you need at first, just let me know and I will try to find a fix or let you know that it is something out of my scope
 I am working on a better solution than Parallels and Windows 10 to have OpenGL fully supported on MacOS.
 It is not a matter of it is possible or not, it is just a matter of time, the time I can spend on it.
 I know, some will say it is not possible, but some also said that this was impossible, and here it is.
