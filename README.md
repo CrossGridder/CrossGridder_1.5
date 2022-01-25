@@ -15,6 +15,7 @@ It is not a matter of it is possible or not, it is just a matter of time, the ti
 I know, some will say it is not possible, but some also said that this was impossible, and here it is.
 
 Write me an email to crossgridder@gmail.com once you are subscribed and I will provide you with a download link.
+Let me know if your OS is High Sierra because I have a different CrossGridder version for it.
 
 
 <a href="https://ibb.co/HHS99pd"><img src="https://i.ibb.co/ZMjbb1m/Reason-12-Monterey.png" alt="Reason-12-Monterey" border="0" /></a>
