@@ -5,6 +5,9 @@ neither I will send spam emails and I am not going to ask you any money. CrossGr
 button on my YT channel. Subscriptions to other channels and donations are totally optional, thanks for your understanding and your
 interest in CrossGridder.
 
+Write me an email to crossgridder@gmail.com once you are subscribed and I will provide you with a download link.
+Let me know if your OS is High Sierra because I have a different CrossGridder version for it.
+
 Also, I can understand that CrossGridder, for any reason, doesn’t fit your needs and you don’t need to be subscribed to my channel.
 I just kindly ask you to provide me a brief feedback with a motivation that will help me to make it better…
 
@@ -13,10 +16,6 @@ If you can’t run what you need at first, just let me know and I will try to fi
 I am working on a better solution than Parallels and Windows to have OpenGL fully supported on MacOS.
 It is not a matter of it is possible or not, it is just a matter of time, the time I can spend on it.
 I know, some will say it is not possible, but some also said that this was impossible, and here it is.
-
-Write me an email to crossgridder@gmail.com once you are subscribed and I will provide you with a download link.
-Let me know if your OS is High Sierra because I have a different CrossGridder version for it.
-
 
 <a href="https://ibb.co/HHS99pd"><img src="https://i.ibb.co/ZMjbb1m/Reason-12-Monterey.png" alt="Reason-12-Monterey" border="0" /></a>
 
