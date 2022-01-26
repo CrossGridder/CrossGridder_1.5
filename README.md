@@ -72,14 +72,11 @@ Mirror 1: snip
 
 GUIDES
 
-ENGLISH:  Mirror 1: https://workupload.com/file/rGDypGL6nsp
-          Mirror 2: https://www.mediafire.com/file/sfwoz3jffos8a6e/EN_Guide_CrossGridder_1.4.pdf/file
-          
-ESPAÑOL:  Mirror 1: https://workupload.com/file/bT6fGkTBMcT
-          Mirror 2: https://www.mediafire.com/file/19difdjtauklg5y/ES_Guia_CrossGridder_1.4.pdf/file
+ENGLISH:  https://workupload.com/file/LPjKru7yaAD
 
-ITALIANO: Mirror 1: https://workupload.com/file/uBdrPqvNCh3
-          Mirror 2: https://www.mediafire.com/file/wor62utsro3nelg/IT_Guida_CrossGridder_1.4.pdf/file
+ESPAÑOL:  https://workupload.com/file/PmSd9fcb9hU
+
+ITALIANO: https://workupload.com/file/3HzpcnxHRJe
           
 ************************************************************************************************
 CROSSGRIDDER will always be free. However, I kindly ask you to subscribe to 
