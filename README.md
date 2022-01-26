@@ -59,7 +59,7 @@ work as a local server on the same device as the AudioGridder plugin by Andreas 
 
 ************************************************************************************************
 
-DOWNLOAD GUIDES (to download CrossGridder, read at the beginning of this page)
+DOWNLOAD version 1.4.1 of the GUIDES (to download CrossGridder, read at the beginning of this page)
 
 ENGLISH:  https://workupload.com/file/LPjKru7yaAD
 
