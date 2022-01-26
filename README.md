@@ -55,22 +55,11 @@ work as a local server on the same device as the AudioGridder plugin by Andreas 
 
 <a href="https://ibb.co/jfkHbR1"><img src="https://i.ibb.co/tKp3QXW/Cross-Gridder-Local-Setup-Scheme.png" alt="Cross-Gridder-Local-Setup-Scheme" border="0" /></a>
 
-DOWNLOAD CROSSGRIDDER 1.4 : 
-snip
 
-                            
-(Universal bottle, tested from Mojave to Monterey and Ubuntu Studio 21)
-
-(If your system supports CrossOver 20, you should be good to go)
-
-************************************************************************************************
-DOWNLOAD USER'S FONTS
-
-Mirror 1: snip
 
 ************************************************************************************************
 
-GUIDES
+DOWNLOAD GUIDES (to download CrossGridder, read at the beginning of this page)
 
 ENGLISH:  https://workupload.com/file/LPjKru7yaAD
 
@@ -79,8 +68,6 @@ ESPAÑOL:  https://workupload.com/file/PmSd9fcb9hU
 ITALIANO: https://workupload.com/file/3HzpcnxHRJe
           
 ************************************************************************************************
-CROSSGRIDDER will always be free. However, I kindly ask you to subscribe to 
-my channels if you can't donate right now. 
 
 CrossGridder on YT: 
 https://www.youtube.com/channel/UCEHXt2OvlCaYvMmWd8XjWNA
