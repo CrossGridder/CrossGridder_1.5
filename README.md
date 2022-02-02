@@ -13,7 +13,7 @@ ni enviaré correo spam y nunca os pediré dinero. CrossGridder es gratuito, tan
 Subscripciones a otros canales y donativos son totalmente opcionales, gracias por entender y por vuestro interés en CrossGridder.
 
 Puedes enviar un correo a crossgridder@gmail.com una vez que esté suscrito a mi canal y yo enviaré un enlace para la descarga.
-Si teneis High Sierra, decirlo en el correo y os pasaré una version especial de CrossGridder.
+Si tienes High Sierra, decirlo en el correo y os pasaré una version especial de CrossGridder.
 
 Also, I can understand that CrossGridder, for any reason, doesn’t fit your needs and you don’t need to be subscribed to my channel.
 I just kindly ask you to provide me a brief feedback with a motivation that will help me to make it better…
