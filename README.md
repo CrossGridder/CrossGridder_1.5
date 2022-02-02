@@ -1,12 +1,19 @@
 # CrossGridder_1.4
 
-Downloads and support will be available only to YouTube subscribers. Don't worry, I am not going to include you in any newsletter, 
+Downloads and support are available only to YouTube subscribers. Don't worry, I am not going to include you in any newsletter, 
 neither I will send spam emails and I am not going to ask you any money. CrossGridder is free, as is clicking on the subscription 
 button on my YT channel. Subscriptions to other channels and donations are totally optional, thanks for your understanding and your
 interest in CrossGridder.
 
 Write me an email to crossgridder@gmail.com once you are subscribed and I will provide you with a download link.
 Let me know if your OS is High Sierra because I have a different CrossGridder version for it.
+
+Descargas y soporte son disponibles solo para los subscriptores de YouTube. No se preocupen, no les voy a incluir en ninguna newsletter,
+ni enviaré correo spam y nunca os pediré dinero. CrossGridder es gratuito, tanto cuanto darle al boton de la subscripción a mi canal de YT.
+Subscripciones a otros canales y donativos son totalmente opcionales, gracias por entender y por vuestro interés en CrossGridder.
+
+Puedes enviar un correo a crossgridder@gmail.com una vez que esté suscrito a mi canal y yo enviaré un enlace para la descarga.
+Si teneis High Sierra, decirlo en el correo y os pasaré una version especial de CrossGridder.
 
 Also, I can understand that CrossGridder, for any reason, doesn’t fit your needs and you don’t need to be subscribed to my channel.
 I just kindly ask you to provide me a brief feedback with a motivation that will help me to make it better…
