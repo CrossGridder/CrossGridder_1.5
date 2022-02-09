@@ -7,10 +7,13 @@ interest in CrossGridder.
 
 Write me an email to crossgridder@gmail.com once you are subscribed and I will provide you with a download link.
 Let me know if your OS is High Sierra because I have a different CrossGridder version for it.
+If you don't receive an answer in 24h, probably your mail went to spam, which I delete without checking. If so, please try again.
+Please send me a screenshot of the subscription too.
 
 Descargas y soporte son disponibles solo para los subscriptores de YouTube. No se preocupen, no les voy a incluir en ninguna newsletter,
 ni enviaré correo spam y nunca os pediré dinero. CrossGridder es gratuito, tanto cuanto darle al boton de la subscripción a mi canal de YT.
 Subscripciones a otros canales y donativos son totalmente opcionales, gracias por entender y por vuestro interés en CrossGridder.
+Por favor, enviar también un pantallazo de la suscripción.
 
 Puedes enviar un correo a crossgridder@gmail.com una vez que esté suscrito a mi canal y yo enviaré un enlace para la descarga.
 Si tienes High Sierra, decirlo en el correo y os pasaré una version especial de CrossGridder.
