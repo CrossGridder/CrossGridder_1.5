@@ -1,6 +1,7 @@
 # CrossGridder_1.4
 
-Downloads and support are available only to YouTube subscribers. Don't worry, I am not going to include you in any newsletter, 
+ENGLISH:
+Downloads and initial support are available only to YouTube subscribers. Don't worry, I am not going to include you in any newsletter, 
 neither I will send spam emails and I am not going to ask you any money. CrossGridder is free, as is clicking on the subscription 
 button on my YT channel. Subscriptions to other channels and donations are totally optional, thanks for your understanding and your
 interest in CrossGridder.
@@ -8,24 +9,52 @@ interest in CrossGridder.
 Write me an email to crossgridder@gmail.com once you are subscribed and I will provide you with a download link.
 Let me know if your OS is High Sierra because I have a different CrossGridder version for it.
 If you don't receive an answer in 24h, probably your mail went to spam, which I delete without checking. If so, please try again.
-Please send me a screenshot of the subscription too.
+Please send me a screenshot of the subscription too if your profile is private.
 
-Descargas y soporte son disponibles solo para los subscriptores de YouTube. No se preocupen, no les voy a incluir en ninguna newsletter,
+CrossGridder is growing faster than I thought and I have a lot of work to do. Basic and advanced stuff to get you started is in the PDF guide 
+and on my YouTube channel. Please take your time to get used to this system. If you are totally new to CrossOver and AudioGridder, I would not 
+have the time to directly support you from start to finish. I can answer direct questions when you get stuck at some point, but I can't do
+a step by step tutorial to everyone. 
+Don't be afraid to contact me if you have an issue at a certain point, maybe it is something I had not considered or not encountered and that
+could prevent others to use CrossGridder, so user's feedbacks are always appreciated.
+
+That said, if for whatever reason you feel that you need a step by step support that requires more than few brief emails, I can do it for a fair price (with invoice).
+But before doing that, tell me your specs and what you would like to run and I will tell you if it is possible or not. I am not gonna experiment on your beloved system, I will
+be doing it only if I am confident with it. If you have a very old computer, do yourself a favor, consider switching to linux to revive it. It is not like before
+and CrossGridder opens a lot of possibilites.
+
+I am a honest professional with years of experience in the IT field. I am not going to lose my professionality for few green papers.
+
+********************************************************************************************************************************************
+
+SPANISH:
+Descargas y soporte inicial son disponibles solo para los subscriptores de YouTube. No se preocupen, no les voy a incluir en ninguna newsletter,
 ni enviaré correo spam y nunca os pediré dinero. CrossGridder es gratuito, tanto cuanto darle al boton de la subscripción a mi canal de YT.
 Subscripciones a otros canales y donativos son totalmente opcionales, gracias por entender y por vuestro interés en CrossGridder.
-Por favor, enviar también un pantallazo de la suscripción.
+Por favor, enviar también un pantallazo de la suscripción si tu perfil es privado.
 
 Puedes enviar un correo a crossgridder@gmail.com una vez que esté suscrito a mi canal y yo enviaré un enlace para la descarga.
 Si tienes High Sierra, decirlo en el correo y os pasaré una version especial de CrossGridder.
+Si no recibes un correo de respuesta dentro de 24h, intente enviar otro más desde otro correo electronico, el anterior podria estar en mi spam.
 
-Also, I can understand that CrossGridder, for any reason, doesn’t fit your needs and you don’t need to be subscribed to my channel.
+CrossGridder está creciendo más rápido de lo que había previsto y tengo aún mucho trabajo que hacer. La herramienta basica y avanzada para empezar
+se encuentra en la guía PDF y en mi canal de YouTube. Por favor, toma tu tiempo para asimilar este sistema. Si no tienes ningun conocimiento 
+de CrossOver y AudioGridder, yo no tendré el tiempo para soporte directo de todo el proceso de instalación y configuración inicial o màs avanzada.
+Puedo contestar preguntas directas si os parais en algun punto en concreto, pero no puedo hacer un tutorial paso a paso para cada usuario.
+
+Dicho esto, si por cualquier razón creéis que vais a necesitar un tipo de soporte paso a paso que requiere más que algun correo rapido, 
+lo puedo hacer por un precio razonable (con factura). Antes de hacer esto, necesito saber los detalles de vuestro sistema y que quereis usar,
+yo os diré si es posible o no. No quiero experimentar con vuestro querido sistemas, lo haré solo si tendré confianza con el sistema.
+Si vuestro ordenador es muy antiguo, haceros un favor, consideren la instalación de Linux. Ya no es como antes y CrossGridder abre muchas posibilidades.
+
+Soy un honesto profesional con años de experiencias en el campo del IT. No os voy a defraudar para unos duros.
+
+********************************************************************************************************************************************
+
+I can understand that CrossGridder, for any reason, doesn’t fit your needs and you don’t need to be subscribed to my channel.
 I just kindly ask you to provide me a brief feedback with a motivation that will help me to make it better…
 
 If you can’t run what you need at first, just let me know and I will try to find a fix or let you know that it is something out of my scope.
-
-I am working on a better solution than Parallels and Windows to have OpenGL fully supported on MacOS.
-It is not a matter of it is possible or not, it is just a matter of time, the time I can spend on it.
-I know, some will say it is not possible, but some also said that this was impossible, and here it is.
 
 <a href="https://ibb.co/HHS99pd"><img src="https://i.ibb.co/ZMjbb1m/Reason-12-Monterey.png" alt="Reason-12-Monterey" border="0" /></a>
 
