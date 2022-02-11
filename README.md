@@ -1,6 +1,100 @@
 # CrossGridder_1.4
 
+FAQ (Infos on how to get CrossGridder are just right after)
+
+********************************************************************************************************
+Q: What is CrossGridder?
+
+A: CROSSGRIDDER is a bottle for CrossOver 20 and 21 containing AudioGridderServer.exe. 
+
+CROSSGRIDDER lets you use Windows-only VSTs on macOS or Linux much like they were natives plugins. 
+
+Click on the image below to see how to setup 
+the first server and create multiple servers 
+to overcome AudioGridderServer limit of 1 GUI x Server on the Host Side
+(see chapters 4 and 5 of the guide for more insights)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4-9Rk6KpHL0
+" target="_blank"><img src="http://img.youtube.com/vi/4-9Rk6KpHL0/0.jpg" 
+alt="CrossGridder First Run and Multiple Server Setup" width="300" height="240" border="15" /></a>
+
+********************************************************************************************************
+
+Q: Is it possible to run Windows VST on Mac and Linux? 
+
+A: Yes, with Crossover 20 (High Sierra), 21 (Mojave to Monterey) and CrossGridder
+
+********************************************************************************************************
+
+Q: How can I run 32 bit Windows plugins on Mac and Linux? 
+
+A: With Crossover, CrossGridder and Jbridge.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=y90mkIw8vAQ
+" target="_blank"><img src="http://img.youtube.com/vi/y90mkIw8vAQ/0.jpg" 
+alt="Run 32 bit Windows VSTs on Mac and Linux - JBridge - CrossGridder 1.4 - CrossOver 21" width="300" height="240" border="15" /></a>
+
+********************************************************************************************************
+
+Q: Is it possible to use Windows VST on Apple Mac M1 processor? 
+
+A: Yes, With CrossGridder!
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8VpA_MMIxTU
+" target="_blank"><img src="http://img.youtube.com/vi/8VpA_MMIxTU/0.jpg" 
+alt="Is it possible to use Windows VST on Apple Mac M1 processor? " width="300" height="240" border="15" /></a>
+
+********************************************************************************************************
+
+Q: Is any VST plugin going to work? 
+
+A: In theory yes, then it depends on your hardware, OS, what plugins you are going to use etc. Some plugins could have minor UI issue but still being usable just 
+with CrossOver for Mac. Others will need a VM to enable full OpenGL rendering. I have created a series of video (still ongoing) to try to minimize the system resources
+usage when using a Virtual Machine. The general rule of usage should be. Use CrossOver for Mac and CrossGridder for the plugins that work in there. For all the others, 
+use a Virtual Machine. The plugins that can be used with CrossOver for Mac will require less latency, RAM and CPU usage, they will feel mostly like native plugins.
+It is just a matter of knowing what you need and setup everything the best way possible.
+
+[TUTORIAL] Full OpenGL on MacOS (Fedora 35, VMWare Fusion, CrossGridder, CrossOver) 
+
+Click image to open YT video
+
+PART 1
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uuiDR77JZzU
+" target="_blank"><img src="http://img.youtube.com/vi/uuiDR77JZzU/0.jpg" 
+alt="Full OpenGL on MacOS Part 1" width="300" height="240" border="15" /></a>
+
+PART 2
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=muEQf0OkYso
+" target="_blank"><img src="http://img.youtube.com/vi/muEQf0OkYso/0.jpg" 
+alt="Full OpenGL on MacOS Part 2" width="300" height="240" border="15" /></a>
+
+********************************************************************************************************
+
+Q: Do I need to create multiple servers to run multiple Windows VST plugins?
+
+A: No, only if you want to to have multiple GUIs sent from the server at the same time. However, this is
+only possible on a Local Setup and the Server must be on the same Host OS, not on a Virtual Machine.
+There is a trick using Jbridge that will let you have as many GUIs you need while only using one Server.
+If you don't want to use Jbridge, create multiple servers by duplicating as many bottle as GUIs you need and then setup Server.
+Each configuration has its PROs and CONs, each setup could be kind of unique.
+
+There are 2 tutorials on my channels which cover both aspects.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4-9Rk6KpHL0
+" target="_blank"><img src="http://img.youtube.com/vi/4-9Rk6KpHL0/0.jpg" 
+alt="Windows VSTs on macOS and Linux like natives! CrossGridder first Run and Multiple Servers Setup" width="300" height="240" border="15" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=q0qu7mNTvvQ
+" target="_blank"><img src="http://img.youtube.com/vi/q0qu7mNTvvQ/0.jpg" 
+alt="CrossGridder and Jbridge Multiple VST GUIs setup" width="300" height="240" border="15" /></a>
+
+
+********************************************************************************************************
+
 ENGLISH:
+
 Downloads and initial support are available only to YouTube subscribers. Don't worry, I am not going to include you in any newsletter, 
 neither I will send spam emails and I am not going to ask you any money. CrossGridder is free, as is clicking on the subscription 
 button on my YT channel. Subscriptions to other channels and donations are totally optional, thanks for your understanding and your
@@ -28,6 +122,7 @@ I am a honest professional with years of experience in the IT field. I am not go
 ********************************************************************************************************************************************
 
 SPANISH:
+
 Descargas y soporte inicial son disponibles solo para los subscriptores de YouTube. No se preocupen, no les voy a incluir en ninguna newsletter,
 ni enviaré correo spam y nunca os pediré dinero. CrossGridder es gratuito, tanto cuanto darle al boton de la subscripción a mi canal de YT.
 Subscripciones a otros canales y donativos son totalmente opcionales, gracias por entender y por vuestro interés en CrossGridder.
@@ -73,18 +168,7 @@ Click image to open YT video
 alt="REASON 12 with WORKING FONTS" width="300" height="240" border="15" /></a>
 
 ***********************************************************************************************
-CROSSGRIDDER is a bottle for CrossOver 20 and 21 containing AudioGridderServer.exe. 
 
-CROSSGRIDDER lets you use Windows-only VSTs on macOS or Linux much like they were natives plugins. 
-
-Click on the image below to watch on YouTube how to setup 
-the first server and create multiple servers 
-to overcome AudioGridderServer limit of 1 GUI x Server on the Host Side
-(see chapters 4 and 5 of the guide for more insights)
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4-9Rk6KpHL0
-" target="_blank"><img src="http://img.youtube.com/vi/4-9Rk6KpHL0/0.jpg" 
-alt="CrossGridder First Run and Multiple Server Setup" width="300" height="240" border="15" /></a>
 
 ************************************************************************************************
 
@@ -92,8 +176,6 @@ Below image shows a diagram of what CrossGridder does better:
 work as a local server on the same device as the AudioGridder plugin by Andreas Pohl.
 
 <a href="https://ibb.co/jfkHbR1"><img src="https://i.ibb.co/tKp3QXW/Cross-Gridder-Local-Setup-Scheme.png" alt="Cross-Gridder-Local-Setup-Scheme" border="0" /></a>
-
-
 
 ************************************************************************************************
 
@@ -130,22 +212,6 @@ title="PayPal – The safer, easier way to pay online!" border="0" />
 
 <a href="https://ibb.co/TB1DX9S"><img src="https://i.ibb.co/Z6SRsqP/Donate2.png" alt="Donate2" border="0" /></a>
 
-************************************************************************************************
-[TUTORIAL] Full OpenGL on MacOS (Fedora 35, VMWare Fusion, CrossGridder, CrossOver) 
-
-Click image to open YT video
-
-PART 1
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=uuiDR77JZzU
-" target="_blank"><img src="http://img.youtube.com/vi/uuiDR77JZzU/0.jpg" 
-alt="Missing AudioGridder Server Tray Icon (Solution) (macOS)" width="300" height="240" border="15" /></a>
-
-PART 2
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=muEQf0OkYso
-" target="_blank"><img src="http://img.youtube.com/vi/uuiDR77JZzU/0.jpg" 
-alt="Missing AudioGridder Server Tray Icon (Solution) (macOS)" width="300" height="240" border="15" /></a>
 
 ************************************************************************************************
 [TUTORIAL] CakeWalk by Bandlab on MacOS and Linux - CrossGridder 1.4 - CrossOver 21 - Mojave
@@ -154,10 +220,10 @@ Click image to open YT video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=b8inNmlAzA0
 " target="_blank"><img src="http://img.youtube.com/vi/b8inNmlAzA0/0.jpg" 
-alt="Missing AudioGridder Server Tray Icon (Solution) (macOS)" width="300" height="240" border="15" /></a>
+alt="CakeWalk by Bandlab on MacOS and Linux" width="300" height="240" border="15" /></a>
 
 ************************************************************************************************
-CrossGridder VST Installation Bash Party - Windows VSTs on MacOS and Linux SERIES
+CrossGridder VST Installation Bash Party - Windows VSTs on MacOS and Linux 
 
 Part 1
 
@@ -166,16 +232,6 @@ Click image to open YT video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=pP4O43gaFVM
 " target="_blank"><img src="http://img.youtube.com/vi/pP4O43gaFVM/0.jpg" 
 alt="CrossGridder VST Installation Bash Part - Windows VSTs on MacOS and Linux" width="300" height="240" border="15" /></a>
-
-
-************************************************************************************************
-Run 32 bit Windows VSTs on Mac and Linux - JBridge - CrossGridder 1.4 - CrossOver 21
-
-Click image to open YT video
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=y90mkIw8vAQ
-" target="_blank"><img src="http://img.youtube.com/vi/y90mkIw8vAQ/0.jpg" 
-alt="Run 32 bit Windows VSTs on Mac and Linux - JBridge - CrossGridder 1.4 - CrossOver 21" width="300" height="240" border="15" /></a>
 
 ************************************************************************************************
 Missing AudioGridder Server Tray Icon (Solution) (macOS)
