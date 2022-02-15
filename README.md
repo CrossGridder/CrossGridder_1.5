@@ -51,9 +51,10 @@ Q: Is any VST plugin going to work?
 
 A: In theory yes, then it depends on your hardware, OS, what plugins you are going to use etc. Some plugins could have minor UI issue but still being usable just 
 with CrossOver for Mac. Others will need a VM to enable full OpenGL rendering. I have created a series of video (still ongoing) to try to minimize the system resources
-usage when using a Virtual Machine. The general rule of usage should be. Use CrossOver for Mac and CrossGridder for the plugins that work in there. For all the others, 
+usage when using a Virtual Machine. 
+   The general rule of usage should be: use CrossOver for Mac and CrossGridder for the plugins that work in there. For all the others, 
 use a Virtual Machine. The plugins that can be used with CrossOver for Mac will require less latency, RAM and CPU usage, they will feel mostly like native plugins.
-It is just a matter of knowing what you need and setup everything the best way possible.
+It is just a matter of knowing what you need and setup everything the best way possible. 
 
 [TUTORIAL] Full OpenGL on MacOS (Fedora 35, VMWare Fusion, CrossGridder, CrossOver) 
 
@@ -75,10 +76,11 @@ alt="Full OpenGL on MacOS Part 2" width="300" height="240" border="15" /></a>
 
 Q: Do I need to create multiple servers to run multiple Windows VST plugins?
 
-A: No, only if you want to to have multiple GUIs sent from the server at the same time. However, this is
+A: No, only if you want to to have multiple GUIs sent from the servers at the same time. However, this is
 only possible on a Local Setup and the Server must be on the same Host OS, not on a Virtual Machine.
 There is a trick using Jbridge that will let you have as many GUIs you need while only using one Server.
-If you don't want to use Jbridge, create multiple servers by duplicating as many bottle as GUIs you need and then setup Server.
+If you don't want to use Jbridge, create multiple servers by duplicating as many bottles as GUIs you need and then setup the server.
+In addition to the videos below, you might want to read chapter 4 and 5 of the PDF guide.
 Each configuration has its PROs and CONs, each setup could be kind of unique.
 
 There are 2 tutorials on my channels which cover both aspects.
