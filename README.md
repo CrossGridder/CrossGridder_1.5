@@ -22,7 +22,8 @@ alt="CrossGridder First Run and Multiple Server Setup" width="300" height="240" 
 
 Q: Is it possible to run Windows VST on Mac and Linux? 
 
-A: Yes, with Crossover 20 (High Sierra), 21 (Mojave to Monterey) and CrossGridder
+A: Yes, with Crossover 20 (High Sierra), 21 (Mojave to Monterey) and CrossGridder. 
+   For Linux distros, both should run fine, in my tests I only used CrossGridder 21.
 
 ********************************************************************************************************
 
