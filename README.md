@@ -195,8 +195,7 @@ ITALIANO: https://workupload.com/file/3HzpcnxHRJe
 CrossGridder on YT: 
 https://www.youtube.com/channel/UCEHXt2OvlCaYvMmWd8XjWNA
 
-CrossGridder on FB:
-https://www.facebook.com/people/CrossGridder/100075794704054/
+
 
 DONATIONS:
 . I accept BAT crypto currency, you can earn them by just using the BRAVE browser. 
