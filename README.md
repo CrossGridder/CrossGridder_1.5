@@ -3,6 +3,17 @@
 FAQ (Infos on how to get CrossGridder are just right after)
 
 ********************************************************************************************************
+Q: Is CrossGridder free?
+
+A: Yes, it is. I only ask you to subscribe to my YouTube channel, so that at one point I will be able to
+monetize. Some people are playing hit and run without providing me any feedback so, as of March 18th 2022,
+I will have to receive a YouTube notification of your subscription. 
+
+If you use a secondary email which you are not using in your everyday life as your main YouTube account, 
+in six month your account will be deleted by YouTube. 
+So, from now on, the account with which you subscribe MUST be an official one and I must receive the YT notification. 
+
+********************************************************************************************************
 Q: What is CrossGridder?
 
 A: CROSSGRIDDER is a bottle for CrossOver 20 and 21 containing AudioGridderServer.exe. 
