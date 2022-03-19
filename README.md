@@ -117,7 +117,6 @@ interest in CrossGridder.
 Write me an email to crossgridder@gmail.com once you are subscribed and I will provide you with a download link.
 Let me know if your OS is High Sierra because I have a different CrossGridder version for it.
 If you don't receive an answer in 24h, probably your mail went to spam, which I delete without checking. If so, please try again.
-Please send me a screenshot of the subscription too if your profile is private.
 
 CrossGridder is growing faster than I thought and I have a lot of work to do. Basic and advanced stuff to get you started is in the PDF guide 
 and on my YouTube channel. Please take your time to get used to this system. If you are totally new to CrossOver and AudioGridder, I would not 
@@ -131,8 +130,6 @@ But before doing that, tell me your specs and what you would like to run and I w
 be doing it only if I am confident with it. If you have a very old computer, do yourself a favor, consider switching to linux to revive it. It is not like before
 and CrossGridder opens a lot of possibilites.
 
-I am a honest professional with years of experience in the IT field. I am not going to lose my professionality for few green papers.
-
 ********************************************************************************************************************************************
 
 SPANISH:
@@ -140,7 +137,6 @@ SPANISH:
 Descargas y soporte inicial son disponibles solo para los subscriptores de YouTube. No se preocupen, no les voy a incluir en ninguna newsletter,
 ni enviaré correo spam y nunca os pediré dinero. CrossGridder es gratuito, tanto cuanto darle al boton de la subscripción a mi canal de YT.
 Subscripciones a otros canales y donativos son totalmente opcionales, gracias por entender y por vuestro interés en CrossGridder.
-Por favor, enviar también un pantallazo de la suscripción si tu perfil es privado.
 
 Puedes enviar un correo a crossgridder@gmail.com una vez que esté suscrito a mi canal y yo enviaré un enlace para la descarga.
 Si tienes High Sierra, decirlo en el correo y os pasaré una version especial de CrossGridder.
@@ -155,8 +151,6 @@ Dicho esto, si por cualquier razón creéis que vais a necesitar un tipo de sopo
 lo puedo hacer por un precio razonable (con factura). Antes de hacer esto, necesito saber los detalles de vuestro sistema y que quereis usar,
 yo os diré si es posible o no. No quiero experimentar con vuestro querido sistemas, lo haré solo si tendré confianza con el sistema.
 Si vuestro ordenador es muy antiguo, haceros un favor, consideren la instalación de Linux. Ya no es como antes y CrossGridder abre muchas posibilidades.
-
-Soy un honesto profesional con años de experiencias en el campo del IT. No os voy a defraudar para unos duros.
 
 ********************************************************************************************************************************************
 
