@@ -30,7 +30,15 @@ to overcome AudioGridderServer limit of 1 GUI x Server on the Host Side
 alt="CrossGridder First Run and Multiple Server Setup" width="300" height="240" border="15" /></a>
 
 ********************************************************************************************************
+Q: Why does CrossGridder doesn't launch and the Control Panel below the programs remains empty.
 
+A: Nobody seems to know, not even Codeweavers. It is not a CrossGridder bottle issue, I also had the same
+problem on one Mojave installation. My guess is that something else related to Wine was previously installed
+and it is conflicting with CrossOver, and it doesn't matter which version of CrossOver you are using.
+The only solution until now is a full OS erase/install. Until now the only OS reported to have this issue
+are High Sierra and Mojave.
+
+********************************************************************************************************
 Q: Is it possible to run Windows VST on Mac and Linux? 
 
 A: Yes, with Crossover 20 (High Sierra), 21 (Mojave to Monterey) and CrossGridder. 
