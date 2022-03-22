@@ -3,15 +3,26 @@
 FAQ (Infos on how to get CrossGridder are just right after)
 
 ********************************************************************************************************
-Q: Is CrossGridder free?
+Q1: Is CrossGridder free?
 
-A: Yes, it is. I only ask you to subscribe to my YouTube channel, so that at one point I will be able to
-monetize. Some people are playing hit and run without providing me any feedback so, as of March 18th 2022,
-I will have to receive a YouTube notification of your subscription. 
+Q2: How can I support CrossGridder?
 
+A1: Yes, it is. I only ask you to subscribe to my YouTube channel, so that at one point I will be able to
+monetize. 
 If you use a secondary email which you are not using in your everyday life as your main YouTube account, 
-in six month your account will be deleted by YouTube. 
-So, from now on, the account with which you subscribe MUST be an official one and I must receive the YT notification. 
+in six month your account will be deleted by YouTube. So please don't play hit&run and use an account that 
+you use in your everyday life.
+
+A2: My preferred way would be the Brave Browser Crypto Currency, you can gain them by using it. Then you can 
+send me a single tip or decide to support me each month. It is more or less the same concept of something like 
+Patreon, but you don't have to spend any money, because BATs can be gained just by clicking on Brave Ads. 
+You can even block the pages with something like Little Snitch or Lulu, Brave will not complain and will reward you.
+I also accept PayPal donations if you prefer, find the button at the end of this page. 
+Donations are vital for me to give more time to this project, in the past months I had the opportunity to work basically
+everyday on the project, but now I have to do other things. Add that the price of electricity jumped up 5 times compared
+to 1 year ago, I can't afford anymore spending so much time on the computer like I did before.
+This doesn't mean I am going to stop updating it and publishing content, it only means that I can't spend much of my day
+on this. Thanks for your understanding.
 
 ********************************************************************************************************
 Q: What is CrossGridder?
