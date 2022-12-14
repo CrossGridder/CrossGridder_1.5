@@ -107,7 +107,9 @@ alt="Full OpenGL on MacOS Part 2" width="300" height="240" border="15" /></a>
 
 Q: Do I need to create multiple servers to run multiple Windows VST plugins?
 
-A: No, only if you want to to have multiple GUIs sent from the servers at the same time. However, this is
+A1: It is possible to run multiple servers via command prompt from CrossOVer. It is somewhere on the Audiogridder Github page under discussions.
+    
+A2: No, only if you want to to have multiple GUIs sent from the servers at the same time. However, this is
 only possible on a Local Setup and the Server must be on the same Host OS, not on a Virtual Machine.
 There is a trick using Jbridge that will let you have as many GUIs you need while only using one Server.
 If you don't want to use Jbridge, create multiple servers by duplicating as many bottles as GUIs you need and then setup the server.
