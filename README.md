@@ -27,7 +27,7 @@ on this. Thanks for your understanding.
 ********************************************************************************************************
 Q: What is CrossGridder?
 
-A: CROSSGRIDDER is a bottle for CrossOver 20 and 21 containing AudioGridderServer.exe. 
+A: CROSSGRIDDER is a bottle for CrossOver 20, 21 and 22 containing AudioGridderServer.exe 1.2.0 Beta 6. 
 
 CROSSGRIDDER lets you use Windows-only VSTs on macOS or Linux much like they were natives plugins. 
 
@@ -43,27 +43,23 @@ alt="CrossGridder First Run and Multiple Server Setup" width="300" height="240" 
 ********************************************************************************************************
 Q: Why does CrossGridder doesn't launch and the Control Panel below the programs remains empty.
 
-A: Nobody seems to know, not even Codeweavers. It is not a CrossGridder bottle issue, I also had the same
-problem on one Mojave installation. My guess is that something else related to Wine was previously installed
-and it is conflicting with CrossOver, and it doesn't matter which version of CrossOver you are using.
-The only solution until now is a full OS erase/install. Until now the only OS reported to have this issue
-are High Sierra and Mojave.
+A: A CrossGridder user seems to have find the solution. If you forced your installation to use
+   HFS+ instead of APFS, this is mostly the cause. This happened to me too, but only on one Mojave
+   installation forced to HFS+. After reinstalling the whole OS on APFS the issue was gone.
+   I didn't realize it back then, but thinking about that when that user told me he solved it after doing 
+   reinstalling on APFS made me realize that he was right. 
 
 ********************************************************************************************************
 Q: Is it possible to run Windows VST on Mac and Linux? 
 
-A: Yes, with Crossover 20 (High Sierra), 21 (Mojave to Monterey) and CrossGridder. 
-   For Linux distros, both should run fine, in my tests I only used CrossOver 21.
+A: Yes, with Crossover 20 (High Sierra), 21 and 22 (Mojave to Monterey) and CrossGridder. 
+   For Linux distros, Crossover from 20 to 22 should run fine.
 
 ********************************************************************************************************
 
 Q: How can I run 32 bit Windows plugins on Mac and Linux? 
 
 A: With Crossover, CrossGridder and Jbridge.
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=y90mkIw8vAQ
-" target="_blank"><img src="http://img.youtube.com/vi/y90mkIw8vAQ/0.jpg" 
-alt="Run 32 bit Windows VSTs on Mac and Linux - JBridge - CrossGridder 1.4 - CrossOver 21" width="300" height="240" border="15" /></a>
 
 ********************************************************************************************************
 
