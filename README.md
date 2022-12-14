@@ -140,10 +140,6 @@ a step by step tutorial to everyone.
 Don't be afraid to contact me if you have an issue at a certain point, maybe it is something I had not considered or not encountered and that
 could prevent others to use CrossGridder, so user's feedbacks are always appreciated.
 
-That said, if for whatever reason you feel that you need a step by step support that requires more than few brief emails, I can do it for a fair price (with invoice).
-But before doing that, tell me your specs and what you would like to run and I will tell you if it is possible or not. I am not gonna experiment on your beloved system, I will
-be doing it only if I am confident with it. If you have a very old computer, do yourself a favor, consider switching to linux to revive it. It is not like before
-and CrossGridder opens a lot of possibilites.
 
 ********************************************************************************************************************************************
 
@@ -162,10 +158,6 @@ se encuentra en la guía PDF y en mi canal de YouTube. Por favor, toma tu tiempo
 de CrossOver y AudioGridder, yo no tendré el tiempo para soporte directo de todo el proceso de instalación y configuración inicial o màs avanzada.
 Puedo contestar preguntas directas si os parais en algun punto en concreto, pero no puedo hacer un tutorial paso a paso para cada usuario.
 
-Dicho esto, si por cualquier razón creéis que vais a necesitar un tipo de soporte paso a paso que requiere más que algun correo rapido, 
-lo puedo hacer por un precio razonable (con factura). Antes de hacer esto, necesito saber los detalles de vuestro sistema y que quereis usar,
-yo os diré si es posible o no. No quiero experimentar con vuestro querido sistemas, lo haré solo si tendré confianza con el sistema.
-Si vuestro ordenador es muy antiguo, haceros un favor, consideren la instalación de Linux. Ya no es como antes y CrossGridder abre muchas posibilidades.
 
 ********************************************************************************************************************************************
 
@@ -173,6 +165,7 @@ I can understand that CrossGridder, for any reason, doesn’t fit your needs and
 I just kindly ask you to provide me a brief feedback with a motivation that will help me to make it better…
 
 If you can’t run what you need at first, just let me know and I will try to find a fix or let you know that it is something out of my scope.
+However, if a plugin is already available for macOS, there will be no answer from my side.
 
 <a href="https://ibb.co/HHS99pd"><img src="https://i.ibb.co/ZMjbb1m/Reason-12-Monterey.png" alt="Reason-12-Monterey" border="0" /></a>
 
