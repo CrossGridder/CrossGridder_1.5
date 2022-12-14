@@ -1,3 +1,12 @@
+About next CrossGridder update (1_5): 
+I am working on it. In fact is ready and it works, it has AudioGridder 1.2.0 Beta 15 installed in it.
+There are also a couple of other updates, one is that it is ready to have Akaizer.exe working through it.
+However, there are other things to update, namely the guides and few settings depending the way you are using it.
+Plus, I am working on other cool things. Please be patient, I also want to make new video tutorials. 
+I don't want to give false promises, but if things goes as I want them, I could release it sometimes in January 2023.
+
+Stay Tuned!
+
 # CrossGridder_1.4
 
 FAQ (Infos on how to get CrossGridder are just right after)
