@@ -74,11 +74,7 @@ A: With Crossover, CrossGridder and Jbridge.
 
 Q: Is it possible to use Windows VST on Apple Mac M1 processor? 
 
-A: Yes, With CrossGridder!
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8VpA_MMIxTU
-" target="_blank"><img src="http://img.youtube.com/vi/8VpA_MMIxTU/0.jpg" 
-alt="Is it possible to use Windows VST on Apple Mac M1 processor? " width="300" height="240" border="15" /></a>
+A: Yes, use CrossGridder!
 
 ********************************************************************************************************
 
