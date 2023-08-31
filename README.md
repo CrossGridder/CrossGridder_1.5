@@ -1,5 +1,5 @@
-About next CrossGridder update (1_5): 
-I am working on it. In fact is ready and it works, it has AudioGridder 1.2.0 stable release installed in it.
+CrossGridder 1.5 is out. As always, subscribe to my YouTube channel and send me an email: 
+It is ready and it works, it has AudioGridder 1.2.0 stable release installed in it.
 There are also a couple of other updates, for instance now a lot of plugins that previously were not working, now are. Another  one is that it is ready to have Akaizer.exe working through it.
 However, there are other things to update, namely the guides and few settings depending the way you are using it.
 Plus, I am working on other cool things. Please be patient, I also want to make new video tutorials. 
