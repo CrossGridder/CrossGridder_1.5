@@ -1,72 +1,55 @@
 CrossGridder 1.5 is out. Subscribe to my YouTube channel and send me an email to crossgridder@gmail.com to get it
 It has AudioGridder 1.2.0 stable release installed in it.
-There are also a couple of other updates, for instance a lot of plugins previously not working, now are. 
+There are few updates: Most plugins previously not working now are. 
 Another one is that it is ready to have Akaizer.exe working through it.
-However, there are other things to update, namely the guides and few settings depending the way you are using it.
-Plus, I am working on other cool things. Please be patient, I also want to make new video tutorials. 
 
-Stay Tuned!
+There are still other things on the work, namely the guides (Spanish and Italian) and new video tutorials.
 
-# CrossGridder_1.4
+Please be patient and stay tuned!
 
-FAQ (Infos on how to get CrossGridder are just right after)
+# CrossGridder_1.5
 
 ********************************************************************************************************
 Q1: Is CrossGridder free?
-
-Q2: How can I support CrossGridder?
-
 A1: Yes, it is. I only ask you to subscribe to my YouTube channel, so that at one point I will be able to
 monetize. 
 If you use a secondary email which you are not using in your everyday life as your main YouTube account, 
 in six month your account will be deleted by YouTube. So please don't play hit&run and use an account that 
 you use in your everyday life.
 
-A2: My preferred way would be the Brave Browser Crypto Currency, you can gain them by using it. Then you can 
-send me a single tip or decide to support me each month. It is more or less the same concept of something like 
-Patreon, but you don't have to spend any money, because BATs can be gained just by clicking on Brave Ads. 
-You can even block the pages with something like Little Snitch or Lulu, Brave will not complain and will reward you.
-I also accept PayPal donations if you prefer, find the button at the end of this page. 
-Donations are vital for me to give more time to this project, in the past months I had the opportunity to work basically
-everyday on the project, but now I have to do other things. Add that the price of electricity jumped up 5 times compared
-to 1 year ago, I can't afford anymore spending so much time on the computer like I did before.
-This doesn't mean I am going to stop updating it and publishing content, it only means that I can't spend much of my day
-on this. Thanks for your understanding.
+Q2: How can I support CrossGridder?
+A2: My preferred way would be BATs (Brave Browser Crypto Currency), you can gain them by using it. 
+Then you can send me a single tip or decide to support me each month. 
 
-********************************************************************************************************
-Q: What is CrossGridder?
+PAYPAL DONATIONS:
+<a href="https://www.paypal.com/donate/?hosted_button_id=54VD7JACZSLF2" 
+target="_blank">
+<img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" alt="PayPal this" 
+title="PayPal – The safer, easier way to pay online!" border="0" />
+</a>
 
-A: CROSSGRIDDER is a bottle for CrossOver 20, 21 and 22 containing AudioGridderServer.exe 1.2.0 Beta 6. 
+**********************************************************************************************************
+<a href="https://ibb.co/2WPKjgY"><img src="https://i.ibb.co/sbQ3FyJ/Donate1.png" alt="Donate1" border="0" /></a>
 
-CROSSGRIDDER lets you use Windows-only VSTs on macOS or Linux much like they were natives plugins. 
+<a href="https://ibb.co/TB1DX9S"><img src="https://i.ibb.co/Z6SRsqP/Donate2.png" alt="Donate2" border="0" /></a>
+
+**********************************************************************************************************
+Q: What is CrossGridder 1.5?
+
+A: CROSSGRIDDER is a bottle for CrossOver 20, 21 and 22 containing AudioGridderServer.exe 1.2.0 Stable release. 
+
+CROSSGRIDDER lets you use Windows-only VSTs on macOS much like they were natives plugins. 
 
 Click on the image below to see how to setup 
 the first server and create multiple servers 
-to overcome AudioGridderServer limit of 1 GUI x Server on the Host Side
-(see chapters 4 and 5 of the guide for more insights)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4-9Rk6KpHL0
 " target="_blank"><img src="http://img.youtube.com/vi/4-9Rk6KpHL0/0.jpg" 
 alt="CrossGridder First Run and Multiple Server Setup" width="300" height="240" border="15" /></a>
 
 ********************************************************************************************************
-Q: Why does CrossGridder doesn't launch and the Control Panel below the programs remains empty.
 
-A: A CrossGridder user seems to have find the solution. If you forced your installation to use
-   HFS+ instead of APFS, this is mostly the cause. This happened to me too, but only on one Mojave
-   installation forced to HFS+. After reinstalling the whole OS on APFS the issue was gone.
-   I didn't realize it back then, but thinking about that when that user told me he solved it after doing 
-   reinstalling on APFS made me realize that he was right. 
-
-********************************************************************************************************
-Q: Is it possible to run Windows VST on Mac and Linux? 
-
-A: Yes, with Crossover 20 (High Sierra), 21 and 22 (Mojave to Monterey) and CrossGridder. 
-   For Linux distros, Crossover from 20 to 22 should run fine.
-
-********************************************************************************************************
-
-Q: How can I run 32 bit Windows plugins on Mac and Linux? 
+Q: How can I run 32 bit Windows plugins on Mac? 
 
 A: With Crossover, CrossGridder and Jbridge.
 
@@ -80,172 +63,33 @@ A: Yes, use CrossGridder!
 
 Q: Is any VST plugin going to work? 
 
-A: In theory yes, then it depends on your hardware, OS, what plugins you are going to use etc. Some plugins could have minor UI issue but still being usable just 
-with CrossOver for Mac. Others will need a VM to enable full OpenGL rendering. I have created a series of video (still ongoing) to try to minimize the system resources
-usage when using a Virtual Machine. 
-   The general rule of usage should be: use CrossOver for Mac and CrossGridder for the plugins that work in there. For all the others, 
-use a Virtual Machine. The plugins that can be used with CrossOver for Mac will require less latency, RAM and CPU usage, they will feel mostly like native plugins.
-It is just a matter of knowing what you need and setup everything the best way possible. 
-
-[TUTORIAL] Full OpenGL on MacOS (Fedora 35, VMWare Fusion, CrossGridder, CrossOver) 
-
-Click image to open YT video
-
-PART 1
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=uuiDR77JZzU
-" target="_blank"><img src="http://img.youtube.com/vi/uuiDR77JZzU/0.jpg" 
-alt="Full OpenGL on MacOS Part 1" width="300" height="240" border="15" /></a>
-
-PART 2
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=muEQf0OkYso
-" target="_blank"><img src="http://img.youtube.com/vi/muEQf0OkYso/0.jpg" 
-alt="Full OpenGL on MacOS Part 2" width="300" height="240" border="15" /></a>
-
-********************************************************************************************************
-
-Q: Do I need to create multiple servers to run multiple Windows VST plugins?
-
-A1: It is possible to run multiple servers via command prompt from CrossOVer. It is somewhere on the Audiogridder Github page under discussions.
-    
-A2: No, only if you want to to have multiple GUIs sent from the servers at the same time. However, this is
-only possible on a Local Setup and the Server must be on the same Host OS, not on a Virtual Machine.
-There is a trick using Jbridge that will let you have as many GUIs you need while only using one Server.
-If you don't want to use Jbridge, create multiple servers by duplicating as many bottles as GUIs you need and then setup the server.
-In addition to the videos below, you might want to read chapter 4 and 5 of the PDF guide.
-Each configuration has its PROs and CONs, each setup could be kind of unique.
-
-There are 2 tutorials on my channels which cover both aspects.
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4-9Rk6KpHL0
-" target="_blank"><img src="http://img.youtube.com/vi/4-9Rk6KpHL0/0.jpg" 
-alt="Windows VSTs on macOS and Linux like natives! CrossGridder first Run and Multiple Servers Setup" width="300" height="240" border="15" /></a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=q0qu7mNTvvQ
-" target="_blank"><img src="http://img.youtube.com/vi/q0qu7mNTvvQ/0.jpg" 
-alt="CrossGridder and Jbridge Multiple VST GUIs setup" width="300" height="240" border="15" /></a>
-
+A: With CrossGridder 1.5 and CrossOver 22 most Windows VST plugins will work on MacOS
 
 ********************************************************************************************************
 
 ENGLISH:
 
-Downloads and initial support are available only to YouTube subscribers. Don't worry, I am not going to include you in any newsletter, 
-neither I will send spam emails and I am not going to ask you any money. CrossGridder is free, as is clicking on the subscription 
-button on my YT channel. Subscriptions to other channels and donations are totally optional, thanks for your understanding and your
-interest in CrossGridder.
+CrossGridder 1.5 download is available only to my YouTube subscribers.
 
-Write me an email to crossgridder@gmail.com once you are subscribed and I will provide you with a download link.
-Let me know if your OS is High Sierra because I have a different CrossGridder version for it.
-If you don't receive an answer in 24h, probably your mail went to spam, which I delete without checking. If so, please try again.
+********************************************************************************************************
 
-CrossGridder is growing faster than I thought and I have a lot of work to do. Basic and advanced stuff to get you started is in the PDF guide 
-and on my YouTube channel. Please take your time to get used to this system. If you are totally new to CrossOver and AudioGridder, I would not 
-have the time to directly support you from start to finish. I can answer direct questions when you get stuck at some point, but I can't do
-a step by step tutorial to everyone. 
-Don't be afraid to contact me if you have an issue at a certain point, maybe it is something I had not considered or not encountered and that
-could prevent others to use CrossGridder, so user's feedbacks are always appreciated.
+ESPAÑOL:
 
-
-********************************************************************************************************************************************
-
-SPANISH:
-
-Descargas y soporte inicial son disponibles solo para los subscriptores de YouTube. No se preocupen, no les voy a incluir en ninguna newsletter,
-ni enviaré correo spam y nunca os pediré dinero. CrossGridder es gratuito, tanto cuanto darle al boton de la subscripción a mi canal de YT.
-Subscripciones a otros canales y donativos son totalmente opcionales, gracias por entender y por vuestro interés en CrossGridder.
-
-Puedes enviar un correo a crossgridder@gmail.com una vez que esté suscrito a mi canal y yo enviaré un enlace para la descarga.
-Si tienes High Sierra, decirlo en el correo y os pasaré una version especial de CrossGridder.
-Si no recibes un correo de respuesta dentro de 24h, intente enviar otro más desde otro correo electronico, el anterior podria estar en mi spam.
-
-CrossGridder está creciendo más rápido de lo que había previsto y tengo aún mucho trabajo que hacer. La herramienta basica y avanzada para empezar
-se encuentra en la guía PDF y en mi canal de YouTube. Por favor, toma tu tiempo para asimilar este sistema. Si no tienes ningun conocimiento 
-de CrossOver y AudioGridder, yo no tendré el tiempo para soporte directo de todo el proceso de instalación y configuración inicial o màs avanzada.
-Puedo contestar preguntas directas si os parais en algun punto en concreto, pero no puedo hacer un tutorial paso a paso para cada usuario.
-
-
-********************************************************************************************************************************************
-
-I can understand that CrossGridder, for any reason, doesn’t fit your needs and you don’t need to be subscribed to my channel.
-I just kindly ask you to provide me a brief feedback with a motivation that will help me to make it better…
-
-If you can’t run what you need at first, just let me know and I will try to find a fix or let you know that it is something out of my scope.
-However, if a plugin is already available for macOS, there will be no answer from my side.
-
-<a href="https://ibb.co/HHS99pd"><img src="https://i.ibb.co/ZMjbb1m/Reason-12-Monterey.png" alt="Reason-12-Monterey" border="0" /></a>
-
-<a href="https://ibb.co/2ZW6mRQ"><img src="https://i.ibb.co/phbPGN8/i-Lock-CO20-Mojave.png" alt="i-Lock-CO20-Mojave" border="0"></a>
-
-<a href="https://ibb.co/GcgFL44"><img src="https://i.ibb.co/XSmVgrr/Multi-Server-Setup-end.png" alt="Multi-Server-Setup-end" border="0" /></a>
-
-***********************************************************************************************
-CROSSGRIDDER 1.4 adds support for Reason 12 and Reason+ Companion. Check the video below. 
-It also shows how to add fonts and recreate aliases to the user's folder from Wine Configuration
-
-Click image to open YT video
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=keGQeQSEG2o
-" target="_blank"><img src="http://img.youtube.com/vi/keGQeQSEG2o/0.jpg" 
-alt="REASON 12 with WORKING FONTS" width="300" height="240" border="15" /></a>
-
-***********************************************************************************************
+La descarga de CrossGridder 1.5 es disponible solo para los subscriptores de mi canal de YouTube. 
 
 
 ************************************************************************************************
 
-Below image shows a diagram of what CrossGridder does better: 
-work as a local server on the same device as the AudioGridder plugin by Andreas Pohl.
+DOWNLOAD version 1.5 of the GUIDES
 
-<a href="https://ibb.co/jfkHbR1"><img src="https://i.ibb.co/tKp3QXW/Cross-Gridder-Local-Setup-Scheme.png" alt="Cross-Gridder-Local-Setup-Scheme" border="0" /></a>
+ENGLISH: https://www.mediafire.com/file/wnt8ljga5c1c5z3/EN_Guide_CrossGridder_1.5.pdf/file
 
-************************************************************************************************
+ESPAÑOL: Aún no disponible
 
-DOWNLOAD version 1.4.1 of the GUIDES (to download CrossGridder, read at the beginning of this page)
-
-ENGLISH:  https://workupload.com/file/LPjKru7yaAD
-
-ESPAÑOL:  https://workupload.com/file/PmSd9fcb9hU
-
-ITALIANO: https://workupload.com/file/3HzpcnxHRJe
+ITALIANO: Ancora non disponibile
           
 ************************************************************************************************
-
-CrossGridder on YT: 
-https://www.youtube.com/channel/UCEHXt2OvlCaYvMmWd8XjWNA
-
-
-
-DONATIONS:
-. I accept BAT crypto currency, you can earn them by just using the BRAVE browser. 
-BRAVE will be probably the next big name between browsers in the next years. It is also packed with
-an excellent trackers and ads blocker. 
-
-PAYPAL:
-
-<a href="https://www.paypal.com/donate/?hosted_button_id=54VD7JACZSLF2" 
-target="_blank">
-<img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" alt="PayPal this" 
-title="PayPal – The safer, easier way to pay online!" border="0" />
-</a>
-************************************************************************************************
-<a href="https://ibb.co/2WPKjgY"><img src="https://i.ibb.co/sbQ3FyJ/Donate1.png" alt="Donate1" border="0" /></a>
-
-<a href="https://ibb.co/TB1DX9S"><img src="https://i.ibb.co/Z6SRsqP/Donate2.png" alt="Donate2" border="0" /></a>
-
-
-************************************************************************************************
-[TUTORIAL] CakeWalk by Bandlab on MacOS and Linux - CrossGridder 1.4 - CrossOver 21 - Mojave
-
-Click image to open YT video
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=b8inNmlAzA0
-" target="_blank"><img src="http://img.youtube.com/vi/b8inNmlAzA0/0.jpg" 
-alt="CakeWalk by Bandlab on MacOS and Linux" width="300" height="240" border="15" /></a>
-
-************************************************************************************************
-CrossGridder VST Installation Bash Party - Windows VSTs on MacOS and Linux 
+CrossGridder VST Installation Bash Party - Windows VSTs on MacOS
 
 Part 1
 
