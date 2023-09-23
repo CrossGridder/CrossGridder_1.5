@@ -68,7 +68,7 @@ CrossGridder 1.5 download is available only to my YouTube subscribers.
 
 ESPAÑOL:
 
-La descarga de CrossGridder 1.5 es disponible solo para los subscriptores de mi canal de YouTube. 
+La descarga de CrossGridder 1.5 es disponible solo para los suscriptores de mi canal de YouTube. 
 
 ********************************************************************************************************
 
