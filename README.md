@@ -1,10 +1,10 @@
 CrossGridder 1.5 IS OUT!!! 
-Subscribe to my YouTube channel and send me an email to crossgridder@gmail.com to get it.
-It has AudioGridder 1.2.0 stable release installed in it.
+Subscribe to my YouTube channel and send an email to crossgridder@gmail.com to get it.
+It has AudioGridder 1.2.0 stable release installed.
 There are few updates: Most plugins previously not working now are. 
 Another one is that it is ready to have Akaizer.exe working through it.
 
-There are still other things on the work, namely the guides (Spanish and Italian) and new video tutorials.
+There are still other things on the work, namely the guides and new video tutorials.
 
 Please be patient and stay tuned!
 
@@ -21,10 +21,6 @@ you use in your everyday life.
 Q2: How can I support CrossGridder?
 A2: You could donate BATs (Brave Browser Crypto Currency), you can gain them by using the Brave Browser. 
 Then you can send me a single tip or decide to support me each month. 
-
-<a href="https://ibb.co/2WPKjgY"><img src="https://i.ibb.co/sbQ3FyJ/Donate1.png" alt="Donate1" border="0" /></a>
-
-<a href="https://ibb.co/TB1DX9S"><img src="https://i.ibb.co/Z6SRsqP/Donate2.png" alt="Donate2" border="0" /></a>
 
 **********************************************************************************************************
 Q: What is CrossGridder 1.5?
@@ -70,17 +66,17 @@ ESPAÑOL:
 
 La descarga de CrossGridder 1.5 es disponible solo para los subscriptores de mi canal de YouTube. 
 
-************************************************************************************************
+********************************************************************************************************
 
 DOWNLOAD version 1.5 of the GUIDES
 
-ENGLISH: Not available yet
+ENGLISH: https://www.mediafire.com/file/qzu5tidohic97lc/EN_Guide_CrossGridder_1.5.pdf/file
 
 ESPAÑOL: Aún no disponible
 
 ITALIANO: Ancora non disponibile
           
-************************************************************************************************
+********************************************************************************************************
 CrossGridder VST Installation Bash Party - Windows VSTs on MacOS
 
 Part 1
@@ -91,7 +87,7 @@ Click image to open YT video
 " target="_blank"><img src="http://img.youtube.com/vi/pP4O43gaFVM/0.jpg" 
 alt="CrossGridder VST Installation Bash Part - Windows VSTs on MacOS and Linux" width="300" height="240" border="15" /></a>
 
-************************************************************************************************
+********************************************************************************************************
 Missing AudioGridder Server Tray Icon (Solution) (macOS)
 
 Click image to open YT video
