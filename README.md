@@ -79,8 +79,6 @@ ITALIANO: Ancora non disponibile
 ********************************************************************************************************
 CrossGridder VST Installation Bash Party - Windows VSTs on MacOS
 
-Part 1
-
 Click image to open YT video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=pP4O43gaFVM
