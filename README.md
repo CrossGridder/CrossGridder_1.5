@@ -78,7 +78,7 @@ ENGLISH: https://www.mediafire.com/file/8bzz7arw7fosm6h/EN_Guide_CrossGridder_1.
 
 ESPAÑOL: Aún no disponible
 
-ITALIANO: Ancora non disponibile
+ITALIANO: https://www.mediafire.com/file/vmxj818xvjodwmv/IT_Guida_CrossGridder_1.5.pdf/file
           
 ********************************************************************************************************
 CrossGridder VST Installation Bash Party - Windows VSTs on MacOS
