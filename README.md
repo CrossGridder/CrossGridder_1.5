@@ -21,17 +21,16 @@ Q2: How can I support CrossGridder?
 A2: My preferred way would be BATs (Brave Browser Crypto Currency), you can gain them by using it. 
 Then you can send me a single tip or decide to support me each month. 
 
+<a href="https://ibb.co/2WPKjgY"><img src="https://i.ibb.co/sbQ3FyJ/Donate1.png" alt="Donate1" border="0" /></a>
+
+<a href="https://ibb.co/TB1DX9S"><img src="https://i.ibb.co/Z6SRsqP/Donate2.png" alt="Donate2" border="0" /></a>
+
 PAYPAL DONATIONS:
 <a href="https://www.paypal.com/donate/?hosted_button_id=54VD7JACZSLF2" 
 target="_blank">
 <img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" alt="PayPal this" 
 title="PayPal – The safer, easier way to pay online!" border="0" />
 </a>
-
-**********************************************************************************************************
-<a href="https://ibb.co/2WPKjgY"><img src="https://i.ibb.co/sbQ3FyJ/Donate1.png" alt="Donate1" border="0" /></a>
-
-<a href="https://ibb.co/TB1DX9S"><img src="https://i.ibb.co/Z6SRsqP/Donate2.png" alt="Donate2" border="0" /></a>
 
 **********************************************************************************************************
 Q: What is CrossGridder 1.5?
