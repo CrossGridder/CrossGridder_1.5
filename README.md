@@ -1,4 +1,5 @@
-CrossGridder 1.5 is out. Subscribe to my YouTube channel and send me an email to crossgridder@gmail.com to get it
+CrossGridder 1.5 IS OUT!!! 
+Subscribe to my YouTube channel and send me an email to crossgridder@gmail.com to get it.
 It has AudioGridder 1.2.0 stable release installed in it.
 There are few updates: Most plugins previously not working now are. 
 Another one is that it is ready to have Akaizer.exe working through it.
