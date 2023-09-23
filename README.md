@@ -1,3 +1,5 @@
+AudioGridder and CrossGridder versions are not dependent and I do not develop AG, it is developed by Andreas Pohl/e47.
+
 CrossGridder 1.5 IS OUT!!! 
 Subscribe to my YouTube channel and send an email to crossgridder@gmail.com to get it.
 It has AudioGridder 1.2.0 stable release installed.
