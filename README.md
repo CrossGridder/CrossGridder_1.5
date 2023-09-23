@@ -74,7 +74,7 @@ La descarga de CrossGridder 1.5 es disponible solo para los suscriptores de mi c
 
 DOWNLOAD version 1.5 of the GUIDES
 
-ENGLISH: https://www.mediafire.com/file/qzu5tidohic97lc/EN_Guide_CrossGridder_1.5.pdf/file
+ENGLISH: https://www.mediafire.com/file/8bzz7arw7fosm6h/EN_Guide_CrossGridder_1.5.pdf/file
 
 ESPAÑOL: Aún no disponible
 
