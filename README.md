@@ -1,9 +1,13 @@
 AudioGridder and CrossGridder versions are not dependent and I do not develop AG, it is developed by Andreas Pohl/e47.
 
 CrossGridder 1.5 IS OUT!!! 
+
 Subscribe to my YouTube channel and send an email to crossgridder@gmail.com to get it.
+
 It has AudioGridder 1.2.0 stable release installed.
-There are few updates: Most plugins previously not working now are. 
+
+There are few updates: Most plugins previously not working now are.
+
 Another one is that it is ready to have Akaizer.exe working through it.
 
 There are still other things on the work, namely the guides and new video tutorials.
@@ -15,21 +19,24 @@ Please be patient and stay tuned!
 # CrossGridder_1.5
 
 ********************************************************************************************************
-Q1: Is CrossGridder free?
-A1: Yes, it is. I only ask you to subscribe to my YouTube channel, so that at one point I will be able to
+Q: Is CrossGridder free?
+
+A: Yes, it is. I only ask you to subscribe to my YouTube channel, so that at one point I will be able to
 monetize. 
 If you use a secondary email which you are not using in your everyday life as your main YouTube account, 
 in six month your account will be deleted by YouTube. So please don't play hit&run and use an account that 
 you use in your everyday life.
 
-Q2: How can I support CrossGridder?
-A2: You could donate BATs (Brave Browser Crypto Currency), you can gain them by using the Brave Browser. 
-Then you can send me a single tip or decide to support me each month. 
+Q: How can I support CrossGridder?
+A: You could donate BATs (Brave Browser Crypto Currency), you can gain them by using the Brave Browser. 
+Send a single tip or decide to support me each month through my YouTube channel. 
 
 **********************************************************************************************************
 Q: What is CrossGridder 1.5?
 
-A: CROSSGRIDDER is a bottle for CrossOver 20, 21 and 22 containing AudioGridderServer.exe 1.2.0 Stable release. 
+A: CROSSGRIDDER is a bottle for CrossOver 20, 21 and 22 containing AudioGridderServer.exe 1.2.0 Stable release.
+
+However, if your OS supports it, CrossOver 22 is strongly suggested.
 
 CROSSGRIDDER lets you use Windows-only VSTs on macOS much like they were natives plugins. 
 
