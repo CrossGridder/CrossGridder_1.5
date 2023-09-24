@@ -76,7 +76,7 @@ DOWNLOAD version 1.5 of the GUIDES
 
 ENGLISH: https://www.mediafire.com/file/8bzz7arw7fosm6h/EN_Guide_CrossGridder_1.5.pdf/file
 
-ESPAÑOL: Aún no disponible
+ESPAÑOL: https://www.mediafire.com/file/p5tz1sdoa19j15w/ES_Guia_CrossGridder_1.5.pdf/file
 
 ITALIANO: https://www.mediafire.com/file/vmxj818xvjodwmv/IT_Guida_CrossGridder_1.5.pdf/file
           
