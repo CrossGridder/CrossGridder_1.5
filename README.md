@@ -1,3 +1,9 @@
+Below link is to buy a copy of CrossOver from their official website and help me in the process
+
+<a href="https://www.codeweavers.com/store?ad=1009">Buy CrossOver from this link to support me </a>
+
+********************************************************************************************************
+
 AudioGridder and CrossGridder versions are not dependent and I do not develop AG, it is developed by Andreas Pohl/e47.
 
 CrossGridder 1.5 IS OUT!!! 
