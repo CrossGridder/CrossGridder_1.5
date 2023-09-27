@@ -59,9 +59,9 @@ CROSSGRIDDER lets you use Windows-only VSTs on macOS much like they were natives
 Click on the image below to see how to setup 
 the first server and create multiple servers 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4-9Rk6KpHL0
-" target="_blank"><img src="http://img.youtube.com/vi/4-9Rk6KpHL0/0.jpg" 
-alt="CrossGridder First Run and Multiple Server Setup" width="300" height="240" border="15" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=prqwdWCmJGU
+" target="_blank"><img src="http://img.youtube.com/vi/prqwdWCmJGU/0.jpg" 
+alt="RUN WINDOWS VST ON MAC - CrossGridder 1.5 First Run Setup (2023)" width="300" height="240" border="15" /></a>
 
 ********************************************************************************************************
 
