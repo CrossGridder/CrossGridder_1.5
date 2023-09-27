@@ -56,8 +56,7 @@ However, if your OS supports it, CrossOver 22 is strongly suggested.
 
 CROSSGRIDDER lets you use Windows-only VSTs on macOS much like they were natives plugins. 
 
-Click on the image below to see how to setup 
-the first server and create multiple servers 
+Click on the image below to see how to set it for the first time
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=prqwdWCmJGU
 " target="_blank"><img src="http://img.youtube.com/vi/prqwdWCmJGU/0.jpg" 
