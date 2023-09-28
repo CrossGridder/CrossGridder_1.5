@@ -26,11 +26,9 @@ There are few updates: Most plugins previously not working now are.
 
 Another one is that it is ready to have Akaizer.exe working through it.
 
-There are still other things on the work, namely the guides and new video tutorials.
+Support for Linux is on Hiatus. Support for High Sierra is over. I will still provide CG_HS to subscribers requesting for it.
 
-Support for Linux is on Hiatus.
-
-Please be patient and stay tuned!
+Stay tuned!
 
 # CrossGridder_1.5
 
