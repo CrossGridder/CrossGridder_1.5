@@ -9,7 +9,7 @@ This is to celebrate CrossOver 23.5 release, which is available for MacOS Sonoma
 
 As I explain in my videos, very few plugins are not rendering the UI with CrossOver 23. 
 
-But the same licence can be used for CrossOver 22, which is what I suggest to use from Mojave to Ventura.
+But the same license can be used for CrossOver 22, which is what I suggest to use from Mojave to Ventura.
 
 (CrossOver 22 should not work on Sonoma). 
 ********************************************************************************************************
