@@ -2,16 +2,10 @@ Below link is to buy a copy of CrossOver from their official website and help me
 
 <a href="https://www.codeweavers.com/store?ad=1009">Buy CrossOver from this link to support me </a>
 
-Until October 17, 2023, clicking on the above link and entering GAMEMODE23 as deal code at the payment screen, you’ll be getting a 23% discount. 
-
-This is to celebrate CrossOver 23.5 release, which is available for MacOS Sonoma.
-
-
 As I explain in my videos, very few plugins are not rendering the UI with CrossOver 23. 
 
-But the same license can be used for CrossOver 22, which is what I suggest to use from Mojave to Ventura.
+But the same license can be used for CrossOver 22, which is what I suggest to use from Mojave to Sonoma.
 
-(CrossOver 22 should not work on Sonoma). 
 ********************************************************************************************************
 
 AudioGridder and CrossGridder versions are not dependent and I do not develop AG, it's developed by Andreas Pohl/e47.
