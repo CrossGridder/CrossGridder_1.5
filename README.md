@@ -2,6 +2,8 @@ Below link is to buy a copy of CrossOver from their official website and help me
 
 <a href="https://www.codeweavers.com/store?ad=1009">Buy CrossOver from this link to support me </a>
 
+Click on the above link and use code CROSSGRIDDER to get a 10% discount on Crossover+
+
 As I explain in my videos, very few plugins are not rendering the UI with CrossOver 23. 
 
 But the same license can be used for CrossOver 22, which is what I suggest to use from Mojave to Sonoma.
